@@ -13,8 +13,8 @@ const setsRawJSONDir = path.join(__dirname, "..", "downloadedSetData");
 
 const extractJSONArray = (str) => {
   var firstOpen, firstClose, candidate;
-  firstOpen = str.indexOf("[");
-  firstClose = str.indexOf("]");
+  firstOpen = str.indexOf("{");
+  firstClose = str.indexOf("}");
   // console.log("firstOpen: " + firstOpen, "firstClose: " + firstClose);
   if (firstClose === -1) {
     return null;
@@ -30,7 +30,7 @@ const extractJSONArray = (str) => {
     } catch (e) {
       // console.log("...failed");
     }
-    firstClose = str.indexOf("]", firstClose + 1);
+    firstClose = str.indexOf("}", firstClose + 1);
   } while (firstClose !== -1);
 
   console.log("didn't find anything");
@@ -67,12 +67,18 @@ const doWork = async (thing) => {
       (a) => a.index
     );
 
-    // const ca = js.data.indexOf("a.CaptainAmerica=");
-    // console.log(ca);
+    const packs = [...js.data.matchAll(/a\.\w+={/gi)].map((a) => ({
+      name: a[0].substr(2, a[0].length - 4),
+      index: a.index + a[0].length - 1,
+    }));
 
-    heroIndices.forEach((i, index) => {
-      console.log("Working with set " + (index + 1));
-      const currentString = js.data.substr(i + 7);
+    packs.forEach((pack, index) => {
+      console.log("Working with pack " + pack.name);
+      const currentString = js.data.substr(pack.index);
+
+      // console.log(currentString.substr(0, 100));
+
+      // return;
 
       // fs.writeFileSync(
       //   path.join(setsRawJSONDir, `${index + 1}_RAW.json`),
@@ -120,7 +126,7 @@ const doWork = async (thing) => {
       if (json !== null) {
         console.log("...writing raw json data");
         fs.writeFileSync(
-          path.join(setsRawJSONDir, `${index + 1}_${thing}.json`),
+          path.join(setsRawJSONDir, `${pack.name}.json`),
           JSON.stringify(json, null, 4)
         );
         console.log("...done");
@@ -139,7 +145,7 @@ const doWork = async (thing) => {
 };
 
 doWork("heroes");
-doWork("masterminds");
-doWork("villains");
-doWork("schemes");
-doWork("henchmen");
+// doWork("masterminds");
+// doWork("villains");
+// doWork("schemes");
+// doWork("henchmen");
