@@ -1,0 +1,78 @@
+[
+    {
+        "id": 7,
+        "name": "Asgardian Warriors",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/asgardian-warrior.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Draw a card."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Cops",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/cops.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Gain a New Recruit."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Multiple Man",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/multiple-man.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Allies for each other Multiple Man in your Victory Pile."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "S.H.I.E.L.D. Assault Squad",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/shield-assault-squad.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Discard the top card of your deck. Then KO an Ally from your discard pile."
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "id": 104,
+        "name": "Followers of Ronan",
+        "cards": [
+            {
+                "name": "Exolon Attendants",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_02.png",
+                "qtd": 1,
+                "vAttack": "3+",
+                "vp": "2",
+                "abilities": [
+                    [
+                        "Exolon Attendants gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while another Villain is ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Followers of Ronan."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Reveal the top card of the Villain Deck. If it's a Villain, it enters an empty city space."
+                    ]
+                ]
+            },
+            {
+                "name": "Exolon Monks",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_03.png",
+                "qtd": 1,
+                "vAttack": "3+",
+                "vp": "2",
+                "abilities": [
+                    [
+                        "Exolon Monks get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while another Villain is ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Followers of Ronan."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Sakaaran Mercenaries",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_07.png",
+                "qtd": 1,
+                "vAttack": "4+",
+                "vp": "3",
+                "abilities": [
+                    [
+                        "Sakaaran Mercenaries get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while another Villain is ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Followers of Ronan."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If another Villain is ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Followers of Ronan, each player gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Korath the Pursuer",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_04.png",
+                "qtd": 1,
+                "vAttack": "4+",
+                "vp": "3",
+                "abilities": [
+                    [
+                        "Korath gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Followers of Ronan."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Each player may draw a card. For each player that did, reveal a card from the Villain Deck. Play a Followers of Ronan card from among the cards you revealed this way. Put the rest back in any order."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Same effect."
+                    ]
+                ]
+            },
+            {
+                "name": "Nebula",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_06.png",
+                "qtd": 1,
+                "vAttack": "4+",
+                "vp": "4",
+                "abilities": [
+                    [
+                        "Nebula gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while she ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Followers of Ronan."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Nebula captures a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        " from another Villain in the city or captures an ",
+                        {
+                            "keyword": 13
+                        },
+                        " from a player's control as a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        ". If it doesn't already give a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        " bonus, it gives ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Korath's Disrupter Rifle",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_05.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+3",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If Korath is in the city, he captures this."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you play a card that costs 6 or more, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "“The Dark Aster“ Flagship",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_01.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+4",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If a Follower of Ronan captures this, each player gains a Wound."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you defeat a Villain, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "The Orb",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/followers_of_ronan_08.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+6",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Put all Heroes from the HQ on the bottom of the Hero Deck."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — When you fight the Mastermind, take another turn after this one. Don't play a card from the Villain Deck at the start of that turn. This ability can only be used once per game."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Ravagers",
+        "cards": [
+            {
+                "name": "Gef",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_01.png",
+                "qtd": 1,
+                "vAttack": "3+",
+                "vp": "3",
+                "abilities": [
+                    [
+                        "Gef gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Ravagers."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Swap Gef with the leftmost Ravager in the city."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Gef was ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Ravagers, draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Tullk",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_06.png",
+                "qtd": 1,
+                "vAttack": "3+",
+                "vp": "3",
+                "abilities": [
+                    [
+                        "Tullk gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Ravagers."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Swap Tullk with the leftmost Ravager in the city."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Tullk was ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Ravagers, KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Kraglin Obfonteri",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_02.png",
+                "qtd": 1,
+                "vAttack": "4+",
+                "vp": "4",
+                "abilities": [
+                    [
+                        "Kraglin gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Ravagers."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Swap Kraglin with the leftmost Ravager in the city."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Kraglin was ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Ravagers, draw two cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Taserface",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_05.png",
+                "qtd": 1,
+                "vAttack": "4+",
+                "vp": "4",
+                "abilities": [
+                    [
+                        "Taserface gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Ravagers."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Swap Taserface with the leftmost Ravager in the city."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Taserface was ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Ravagers, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Yondu Udonta",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_08.png",
+                "qtd": 1,
+                "vAttack": "5+",
+                "vp": "5",
+                "abilities": [
+                    [
+                        "Yondu gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he ",
+                        {
+                            "keyword": 81,
+                            "text": "Commands"
+                        },
+                        " the Ravagers."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Swap Yondu with the leftmost Ravager in the city."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Yondu was ",
+                        {
+                            "keyword": 81,
+                            "text": "Commanding"
+                        },
+                        " the Ravagers, KO up to two of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Scavanged Blade",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_04.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+2",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Play another card from the Villain Deck."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — When you play a ",
+                        {
+                            "hc": 4
+                        },
+                        " or ",
+                        {
+                            "hc": 2
+                        },
+                        " card, you may get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        ". If you do, shuffle this into the Villain Deck."
+                    ]
+                ]
+            },
+            {
+                "name": "Ravager Starship “Eclector“",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_03.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+3",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If a Ravager captures this, that Ravager swaps spaces with the leftmost Ravager in the city."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you play a ",
+                        {
+                            "hc": 5
+                        },
+                        " card, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Yaka Arrow",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/ravagers_07.png",
+                "subType": 3,
+                "qtd": 1,
+                "vAttack": "+4",
+                "vp": "-1",
+                "abilities": [
+                    {
+                        "keyword": 82,
+                        "text": "Villainous Weapon"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If Yondu is in the city, he captures this. If he is in any player's Victory Pile, he enters an empty city space, then captures this."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you play a ",
+                        {
+                            "hc": 1
+                        },
+                        " or ",
+                        {
+                            "hc": 3
+                        },
+                        " card, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    }
+]

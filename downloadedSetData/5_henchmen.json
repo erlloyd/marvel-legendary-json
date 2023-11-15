@@ -1,0 +1,130 @@
+[
+    {
+        "id": 21,
+        "name": "Brood, The",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/the-brood.png",
+        "vAttack": "1+",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        "This Villain gets ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each Bystander in the KO pile."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Then KO a Bystander from the Bystander Stack."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Hellfire Cult",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/hellfire-cult.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top card of your deck. If it costs 0, KO it. Otherwise, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Sapien League",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/sapien-league.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Then, reveal the top card of the Villain Deck. If it's a Henchman Villain, play it."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Shi'ar Death Commandos",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/shiar-death-commandos.png",
+        "vAttack": "2",
+        "vp": 1,
+        "cards": [
+            {
+                "vAttackAsterisk": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": This Villain captures a ",
+                        {
+                            "keyword": 40,
+                            "text": "Human Shield"
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Shi'ar Patrol Craft",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/shiar-patrol-craft.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": The next Hero you recruit this turn has ",
+                        {
+                            "keyword": 37
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    }
+]

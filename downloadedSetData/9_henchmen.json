@@ -1,0 +1,85 @@
+[
+    {
+        "id": 29,
+        "name": "Hammer Drone Army",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/hammer-drone-army.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Look at the top two cards of your deck. KO one of them and put the other back."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "HYDRA Pilots",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/hydra-pilots.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "HYDRA Spies",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/hydra-spies.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": When you draw a new hand of cards at the end of this turn, draw an extra card."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Ten Rings Fanatics",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/ten-rings-fanatics.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    }
+]

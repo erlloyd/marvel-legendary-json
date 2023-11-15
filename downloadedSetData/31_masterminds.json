@@ -1,0 +1,260 @@
+[
+    {
+        "id": 59,
+        "name": "Hybrid",
+        "vAttack": "6",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Hybrid",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-01.png",
+                "abilities": [
+                    [
+                        "If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Life Foundation"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": A Villain from the city ",
+                        {
+                            "keyword": 53
+                        },
+                        " with Hybrid, If Hybrid was already bonded, then each player gains a Wound instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Hybrid",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-02.png",
+                "vAttack": "8",
+                "epic": false,
+                "abilities": [
+                    [
+                        "If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Life Foundation"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": The highest ",
+                        {
+                            "icon": 1
+                        },
+                        " unbonded Villain from the city and/or Escape Pile ",
+                        {
+                            "keyword": 53
+                        },
+                        " with Hybrid. If no new bond could occur, then each player gains a Wound instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Alien Awakening",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If this is not the final tactic, a Henchman Villain from any Victory Pile ",
+                        {
+                            "keyword": 53
+                        },
+                        " with Hybrid."
+                    ]
+                ]
+            },
+            {
+                "name": "Escaped Monstrosity",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If this is not the final Tactic, a Villain from the city or Escape Pile ",
+                        {
+                            "keyword": 53
+                        },
+                        " with Hybrid."
+                    ]
+                ]
+            },
+            {
+                "name": "Life Foundation Research",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " for each Life Foundation Villain in your Victory Pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Symbiotic Call",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/hybrid-06.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed ",
+                        {
+                            "keyword": 53
+                        },
+                        " with Hybrid. Put the rest back in any order."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Poison Thanos",
+        "vAttack": "12",
+        "vp": 7,
+        "cards": [
+            {
+                "name": "Poison Thanos",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-01.png",
+                "vAttack": "12+",
+                "abilities": [
+                    [
+                        "Poison Thanos gets ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each different cost among cards in his “Poisoned Souls“ pile."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Poisons"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a “Poisoned Souls“ pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Poison Thanos",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-02.png",
+                "vAttack": "13+",
+                "epic": false,
+                "abilities": [
+                    [
+                        "Poison Thanos gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each different cost among cards in his “Poisoned Souls“ pile."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Poisons"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player reveals their hand and puts half ",
+                        {
+                            "italic": "(round up)"
+                        },
+                        " of their non-grey Heroes next to Thanos in a “Poisoned Souls“ pile. Each player that lost no Heroes this way gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Desperate Rescue",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-06.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You may gain a Hero from Poison Thanos' “Poisoned Souls“ pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Poisoned Loyalties",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player puts a Poisons card from their discard pile into Poison Thanos' “Poisoned Souls“ pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Searing Poisons",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player discards a Poisons card from their hand or gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Soul Seize",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/poison-thanos-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Put all Heroes that cost 5 or more from the HQ into Poison Thanos' “Poisoned Souls“ pile."
+                    ]
+                ]
+            }
+        ]
+    }
+]

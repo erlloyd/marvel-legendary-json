@@ -1,0 +1,173 @@
+[
+    {
+        "id": 33,
+        "name": "HYDRA Base",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/location-hydra-base.png",
+        "vAttack": "2+",
+        "vp": 1,
+        "cards": [
+            {
+                "subtitle": "Henchman Location",
+                "subType": 2,
+                "abilities": [
+                    [
+                        "HYDRA Base gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while there's a Villain here."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Mandarin's Rings",
+        "subtitle": "Henchman Villain - Mandarin's Rings",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "name": "Daimonic, The White Light",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-10.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Incandescence, The Flame Blast",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-09.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You may KO a card from your discard pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Influence, The Impact Beam",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-05.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Liar, The Mento-Intensifier",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-06.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Look at the top card of another player's deck. Say it is “Good“ or “Bad.“ That player chooses to put it in your discard pile or their discard pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Lightning, The Electro-Blast",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-07.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top card of your deck. You may KO it."
+                    ]
+                ]
+            },
+            {
+                "name": "Nightbringer, The Black Light",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-08.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top three cards of the Villain Deck. You may defeat a Villain you revealed worth 2VP or less. ",
+                        {
+                            "italic": "(Do its Fight effect.)"
+                        },
+                        " Put the rest back in any order."
+                    ]
+                ]
+            },
+            {
+                "name": "Remaker, The Matter Rearranger",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-03.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You may choose a card from your hand or discard pile. The player on your right puts it in their hand."
+                    ]
+                ]
+            },
+            {
+                "name": "Spectral, The Disintegration Beam",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-04.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Spin, The Vortex Beam",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-01.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top six cards of your deck. Discard all of them that cost 0, then put the rest back in any order."
+                    ]
+                ]
+            },
+            {
+                "name": "Zero, The Ice Blast",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mandarins-rings-02.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a card you played this turn that costs 0. When you draw a new hand of cards at the end of this turn, add that card to your hand as an extra card."
+                    ]
+                ]
+            }
+        ]
+    }
+]

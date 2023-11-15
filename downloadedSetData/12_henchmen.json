@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name": "Doombot Legion",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/doombot-legion.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Look at the top two cards of your deck. KO one of them and put the other back."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hand Ninjas",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/hand-ninjas.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Savage Land Mutates",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/savage-land-mutants.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": When you draw a new hand of cards at the end of this turn, draw an extra card."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sentinel",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/sentinel.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,379 @@
+[
+    {
+        "id": 142,
+        "name": "Hack Cerebro Servers To...",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_02.png",
+        "cards": [
+            {
+                "veiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Setup"
+                        },
+                        ": 10 Twists."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 1-5"
+                        },
+                        ": Put a card from the Bystander Stack next to this Scheme as a “Hacker.“ KO a Hero from the HQ with cost equal to the number of Hackers. If you KO'd a Hero this way, stack this Twist next to the Mastermind as “Stolen Cerebro Data.“"
+                    ],
+                    [
+                        {
+                            "bold": "Twist 6"
+                        },
+                        ": Put the Hackers on the bottom of the Bystander Stack. This Scheme ",
+                        {
+                            "rule": 13,
+                            "text": "Transforms",
+                            "keywordStyle": false
+                        },
+                        " into a random ",
+                        {
+                            "rule": 13,
+                            "text": "Unveiled Scheme"
+                        },
+                        ". Do its Twist effect."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "...Control the Mutant Messiah",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_02_1.png",
+        "sortName": "Control the Mutant Messiah",
+        "cards": [
+            {
+                "unveiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "When revealed"
+                        },
+                        ": Twists stacked next to the Mastermind are “Manipulations.“ Shuffle a random extra Hero into a face down “Mutant Messiah“ stack."
+                    ],
+                    [
+                        {
+                            "bold": "Twist"
+                        },
+                        ": Add this Twist to the Manipulations. ",
+                        {
+                            "keyword": 32
+                        },
+                        " the Mutant Messiah stack for a card and set it aside. This turn you may gain that card to the top of your deck by spending ",
+                        {
+                            "icon": 2
+                        },
+                        " equal to its cost, ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " for each Manipulation. If you don't, then put that card into a “Fallen Messiah“ stack next to the Scheme."
+                    ],
+                    [
+                        {
+                            "bold": "Evil Wins"
+                        },
+                        ": When there are 3 cards in the Fallen Messiah stack or the Villain Deck runs out."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Drain Mutant Powers To...",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_01.png",
+        "cards": [
+            {
+                "veiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Setup"
+                        },
+                        ": 11 Twists."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 1-6"
+                        },
+                        ": Stack the top two cards of the ",
+                        {
+                            "rule": 11,
+                            "text": "Sidekick"
+                        },
+                        " Stack face down next to the Scheme as “Kidnapped Mutants.“ If there were any Kidnapped Mutants already there, put those on the bottom of the ",
+                        {
+                            "rule": 11,
+                            "text": "Sidekick"
+                        },
+                        " Stack and put this Twist next to the Mastermind as a “Drained Power.“"
+                    ],
+                    [
+                        {
+                            "bold": "Special Rules"
+                        },
+                        ": Playes may spend ",
+                        {
+                            "bold": "3"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " or ",
+                        {
+                            "bold": "3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " to gain a Kidnapped Mutant."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 7"
+                        },
+                        ": KO all Kidnapped Mutants. This Scheme ",
+                        {
+                            "rule": 13,
+                            "text": "Transforms",
+                            "keywordStyle": false
+                        },
+                        " into a random ",
+                        {
+                            "rule": 13,
+                            "text": "Unveiled Scheme"
+                        },
+                        ". Do its Twist effect."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "...Open Rifts to Future Timelines",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_01_1.png",
+        "sortName": "Open Rifts to Future Timelines",
+        "cards": [
+            {
+                "unveiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "When revealed"
+                        },
+                        ": Shuffle a random additional Villain Group into the Villain Deck. Twists stacked next to the Mastermind are “Temporal Rifts.“"
+                    ],
+                    [
+                        {
+                            "bold": "Twist"
+                        },
+                        ": Add this Twist to the Temporal Rifts. Then reveal and set aside cards from the Villain Deck equal to the number of Temporal Rifts. Play a Henchman you revealed, then play the Villain you revealed that is worth the most VP. Shuffle the other set aside cards into the Villain Deck. ",
+                        {
+                            "italic": "(If the Villain Deck runs out during this, that doesn't end the game.)"
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Evil Wins"
+                        },
+                        ": When there are 7 Temporal Rifts or the Villain Deck runs out."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Hire Singularity Investigations To...",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_03.png",
+        "cards": [
+            {
+                "veiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Setup"
+                        },
+                        ": 9 Twists."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 1-4"
+                        },
+                        ": If there are any “Singularity Investigators“ in the city, stack this Twist next to the Mastermind as a “Dark Discovery.“ Whether you did that or not, ",
+                        {
+                            "keyword": 32
+                        },
+                        " the Bystander Stack for a card and have it enter the city as a “Singularity Investigator“ Villain. It has ",
+                        {
+                            "bold": "6"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " and “",
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Rescue this as a Bystander. Then KO one of your Heroes. Then ",
+                        {
+                            "keyword": 32
+                        },
+                        " your deck for a card with a ",
+                        {
+                            "icon": 2
+                        },
+                        " icon.“"
+                    ],
+                    [
+                        {
+                            "bold": "Twist 5"
+                        },
+                        ": This Scheme ",
+                        {
+                            "rule": 13,
+                            "text": "Transforms",
+                            "keywordStyle": false
+                        },
+                        " into a random ",
+                        {
+                            "rule": 13,
+                            "text": "Unveiled Scheme"
+                        },
+                        ". Do its Twist effect."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "...Reveal The Heroes' Evil Clones",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_03_1.png",
+        "sortName": "Reveal The Heroes' Evil Clones",
+        "cards": [
+            {
+                "unveiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "When revealed"
+                        },
+                        ": Twists stacked next to the Mastermind are “Cloning Breakthroughs.“"
+                    ],
+                    [
+                        {
+                            "bold": "Twist"
+                        },
+                        ": Add this Twist to the Cloning Breakthroughs. The top card of the Hero Deck enters the city as an “Evil Clone“ Villain. ",
+                        {
+                            "keyword": 72
+                        },
+                        " a copy of it from the HQ or Hero Deck as another Evil Clone."
+                    ],
+                    [
+                        {
+                            "bold": "Special Rules"
+                        },
+                        ": Each Evil Clone has ",
+                        {
+                            "icon": 1
+                        },
+                        " equal to its cost plus the number of Cloning Breakthroughs. It has “",
+                        {
+                            "bold": "Fight"
+                        },
+                        ": A player gains this as a Hero. KO one of your Heroes.“"
+                    ],
+                    [
+                        {
+                            "bold": "Evil Wins"
+                        },
+                        ": When there are 7 Evil Clones in the city and/or Escape Pile, or the Villain Deck or Hero Deck runs out."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Raid Gene Banks To...",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_04.png",
+        "cards": [
+            {
+                "veiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Setup"
+                        },
+                        ": 8 Twists."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 1-3"
+                        },
+                        ": If there is a Villain in the Bank, stack this Twist next to the Mastermind as a “Mutant Genome.“ Otherwise, move a Villain from another city space to the Bank."
+                    ],
+                    [
+                        {
+                            "bold": "Twist 4"
+                        },
+                        ": This Scheme ",
+                        {
+                            "rule": 13,
+                            "text": "Transforms",
+                            "keywordStyle": false
+                        },
+                        " into a random ",
+                        {
+                            "rule": 13,
+                            "text": "Unveiled Scheme"
+                        },
+                        ". Do its Twist effect."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "...Unleash an Anti-Mutant Bioweapon",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Schemes/mc_scheme_04_1.png",
+        "sortName": "Unleash an Anti-Mutant Bioweapon",
+        "cards": [
+            {
+                "unveiled": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "When revealed"
+                        },
+                        ": Twists stacked next to the Mastermind are “Bioweapon Adaptations.“"
+                    ],
+                    [
+                        {
+                            "bold": "Twist"
+                        },
+                        ": Add this Twist to the Bioweapon Adaptations. Then for each card in that stack, choose a different number from 2-6. KO all Heroes from the HQ that have any of those costs."
+                    ],
+                    [
+                        {
+                            "bold": "Evil Wins"
+                        },
+                        ": When there are 15 non-grey Heroes in the KO pile or the Villain Deck or Hero Deck runs out."
+                    ]
+                ]
+            }
+        ]
+    }
+]

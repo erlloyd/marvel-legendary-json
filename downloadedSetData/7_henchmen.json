@@ -1,0 +1,165 @@
+[
+    {
+        "id": 38,
+        "name": "Giants of Jotunheim",
+        "imageUrl": "",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Each player discards the top three cards of their deck."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You may KO a grey Hero from your discard pile."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Vibranium Liberator Drones",
+        "imageUrl": "",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Another Villain captures a Bystander. "
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": ",
+                        {
+                            "keyword": 92,
+                            "text": "Liberate 3"
+                        },
+                        ". The next time you rescue a Bystander this turn ",
+                        {
+                            "italic": "(Including from this Henchmen)"
+                        },
+                        ", KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Ultron Sentries",
+        "imageUrl": "",
+        "vAttack": "2+",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 1
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "abilities": [
+                    [
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 2
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "abilities": [
+                    [
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 3
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "abilities": [
+                    [
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 4
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "abilities": [
+                    [
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 5
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    }
+]

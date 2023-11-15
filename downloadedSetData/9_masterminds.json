@@ -1,0 +1,251 @@
+[
+    {
+        "id": 10,
+        "name": "Galactus",
+        "vAttack": "20",
+        "vp": 7,
+        "cards": [
+            {
+                "name": "Galactus",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/galactus-01.png",
+                "vAttackAsterisk": false,
+                "abilities": [
+                    [
+                        {
+                            "keyword": 6
+                        },
+                        ": ",
+                        {
+                            "hc": 4
+                        },
+                        {
+                            "hc": 2
+                        },
+                        {
+                            "hc": 1
+                        },
+                        {
+                            "hc": 5
+                        },
+                        {
+                            "hc": 3
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Heralds of Galactus"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Destroy the city space closest to Galactus. Any Villain there escapes. Put this Master Strike there."
+                    ],
+                    [
+                        {
+                            "bold": "Galactus Wins"
+                        },
+                        ": When the city is destroyed."
+                    ]
+                ]
+            },
+            {
+                "name": "Cosmic Entity",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/galactus-02.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose ",
+                        {
+                            "hc": 4
+                        },
+                        ", ",
+                        {
+                            "hc": 2
+                        },
+                        ", ",
+                        {
+                            "hc": 1
+                        },
+                        ", ",
+                        {
+                            "hc": 5
+                        },
+                        " or ",
+                        {
+                            "hc": 3
+                        },
+                        ". Each player reveals any number of cards of that class, then draws that many cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Force of Eternity",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/galactus-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": When you draw a new hand of cards at the end of this turn, draw six extra cards, then discard six cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Panicked Mobs",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/galactus-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose ",
+                        {
+                            "hc": 4
+                        },
+                        ", ",
+                        {
+                            "hc": 2
+                        },
+                        ", ",
+                        {
+                            "hc": 1
+                        },
+                        ", ",
+                        {
+                            "hc": 5
+                        },
+                        " or ",
+                        {
+                            "hc": 3
+                        },
+                        ". Each player reveals any number of cards of that class, then rescues that many Bystanders."
+                    ]
+                ]
+            },
+            {
+                "name": "Sunder the Earth",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/galactus-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mole Man",
+        "vAttack": "7",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Mole Man",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/mole-man-01.png",
+                "vAttack": "7+",
+                "abilities": [
+                    [
+                        "Mole Man gets ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each Subterranea Villain that has escaped."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Subterranea"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": All Subterranea Villains in the city escape. If any Villains escaped this way, each player gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Dig to Freedom",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/mole-man-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player chooses a Subterranea Villain in their Victory Pile and puts it into the Escaped Villains pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Master of Monsters",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/mole-man-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If this is not the final Tactic, reveal the top six cards of the Villain Deck. Play all the Subterranea Villains you revealed. Put the rest on the bottom of the Villain Deck in random order."
+                    ]
+                ]
+            },
+            {
+                "name": "Secret Tunnel",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/mole-man-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+6"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " usable only against Villains in the Streets."
+                    ]
+                ]
+            },
+            {
+                "name": "Underground Riches",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/mole-man-02.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+6"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " usable only to recruit Heroes in the HQ space under the Streets."
+                    ]
+                ]
+            }
+        ]
+    }
+]

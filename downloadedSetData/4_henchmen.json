@@ -1,0 +1,64 @@
+[
+    {
+        "id": 37,
+        "name": "Mr. Sinister Clones",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mc_henchman_mr_sinister_clones.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 72
+                        },
+                        ". When the cloned copy enters the city, shuffle a Bystander into the Villain Deck."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": ",
+                        {
+                            "keyword": 72
+                        },
+                        " the next Hero you recruit this turn that has printed cost 4 or less."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Sentinel Squad O∗N∗E∗",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/mc_henchman_sentinel_squad_one.png",
+        "vAttack": "2",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": If there are no other Sentinel Squad O∗N∗E∗s in the city, ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If there are no other Sentinel Squad O∗N∗E∗s in the city, KO one of your Heroes and put this Villain on the bottom of the Villain Deck."
+                    ]
+                ]
+            }
+        ]
+    }
+]

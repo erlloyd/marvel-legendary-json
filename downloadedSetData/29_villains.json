@@ -1,0 +1,247 @@
+[
+    {
+        "id": 102,
+        "name": "Fear Lords",
+        "cards": [
+            {
+                "name": "Nox",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/fear_lords_03.png",
+                "qtd": 2,
+                "vAttack": "4",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Then, if Nox was in the city, she enters the ",
+                        {
+                            "keyword": 76
+                        },
+                        " and captures a Bystander."
+                    ]
+                ]
+            },
+            {
+                "name": "D'Spayre",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/fear_lords_01.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": D'Spayre enters the ",
+                        {
+                            "keyword": 76
+                        },
+                        " and captures a Bystander."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO a Hero. Then, if D'Spayre was in the ",
+                        {
+                            "keyword": 76
+                        },
+                        ", he enters the city, ignoring his Ambush ability."
+                    ]
+                ]
+            },
+            {
+                "name": "Dreamstalker",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/fear_lords_02.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Draw two cards. Then, if Dreamstalker was in the city, it enters the ",
+                        {
+                            "keyword": 76
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Each player discards down to four cards."
+                    ]
+                ]
+            },
+            {
+                "name": "The Lurking Unknown",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/fear_lords_04.png",
+                "qtd": 2,
+                "vAttack": "2",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top card of the Hero Deck. You may spend ",
+                        {
+                            "icon": 2
+                        },
+                        " equal to that card's cost to have the player of your choice gain that Hero. If you don't, the Lurking Unknown enters the ",
+                        {
+                            "keyword": 76
+                        },
+                        {
+                            "italic": " (even if it was already there)."
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Reveal the top card of the Hero Deck. Each player reveals their hand and KOs a Hero with that cost."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Lords of the Netherworld",
+        "cards": [
+            {
+                "name": "Mindless Ones",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/lords_of_the_netherworld_02.png",
+                "qtd": 2,
+                "vAttack": "4",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Mindless Ones capture the rightmost Hero in the HQ that costs 4 or less."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with the Lords of the Netherworld to gain that Hero."
+                    ]
+                ]
+            },
+            {
+                "name": "Baron Mordo",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/lords_of_the_netherworld_01.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with Baron Mordo to draw two extra cards at the end of this turn."
+                    ]
+                ]
+            },
+            {
+                "name": "Satana Hellstrom",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/lords_of_the_netherworld_03.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with Satana Hellstrom to rescue three Bystanders."
+                    ]
+                ]
+            },
+            {
+                "name": "Satannish",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/lords_of_the_netherworld_04.png",
+                "qtd": 1,
+                "vAttack": "6",
+                "vp": "4",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with Satannish to reveal the top card of the Hero Deck and gain it if it costs 4 or less."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Same effect, but cost 6 or less."
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Same effect, but cost 2 or less."
+                    ]
+                ]
+            },
+            {
+                "name": "Umar",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/lords_of_the_netherworld_05.png",
+                "qtd": 1,
+                "vAttack": "7",
+                "vp": "5",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with Umar to KO a Hero of their choice from the HQ."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a player to make a ",
+                        {
+                            "keyword": 77
+                        },
+                        " with Umar to gain a Hero of their choice that costs 6 or less from the KO pile."
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Same as Fight effect, but cost 0."
+                    ]
+                ]
+            }
+        ]
+    }
+]

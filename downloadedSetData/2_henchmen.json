@@ -1,0 +1,82 @@
+[
+    {
+        "id": 16,
+        "name": "Khonshu Guardians",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/khonshu-guardians.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        "While in the Sewers, Rooftops or Bridge, this is in “wolf form“ and gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Magma Men",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/magma-men.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ],
+                    {
+                        "keyword": 21
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Spider-Infected",
+        "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Henchmen/spider-infected.png",
+        "vAttack": "3",
+        "vp": 1,
+        "cards": [
+            {
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": This captures a Bystander."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": The next Hero you gain this turn has ",
+                        {
+                            "keyword": 7
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    }
+]

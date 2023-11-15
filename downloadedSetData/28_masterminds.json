@@ -1,0 +1,358 @@
+[
+    {
+        "id": 83,
+        "name": "Ronan the Accuser",
+        "tacticName": "Ronan",
+        "vAttack": "6",
+        "cards": [
+            {
+                "name": "Ronan the Accuser",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_01.png",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Followers of Ronan"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player discards a card at random. Ronan captures this Strike as a “Necrocraft Ship“ ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        " that gives ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        ". When you gain a Necrocraft Ship, it becomes a ",
+                        {
+                            "keyword": 79
+                        },
+                        " that says “Whenever a Master Strike is completed, draw a card.“"
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Ronan the Accuser",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_02.png",
+                "vAttack": "7",
+                "epic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Followers of Ronan"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player with six or more cards in hand discards two cards at random. Ronan captures this Strike as a “Necrocraft Ship“ ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        " that gives ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        ". When you gain a Necrocraft Ship, it becomes a ",
+                        {
+                            "keyword": 79
+                        },
+                        " that says “Whenever a Master Strike is completed, draw a card.“"
+                    ]
+                ]
+            },
+            {
+                "name": "Ronan's Throne",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_05.png",
+                "tactic": false,
+                "vAttack": "+3",
+                "vp": -1,
+                "overrideType": 4,
+                "overrideSubType": 3,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Rescue 2 Bystanders. Ronan captures this card as a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever a Scheme Twist is completed, draw two cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Hood of the Accuser",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_04.png",
+                "tactic": false,
+                "vAttack": "+4",
+                "vp": -1,
+                "overrideType": 4,
+                "overrideSubType": 3,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Rescue 2 Bystanders. Ronan captures this card as a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever a Master Strike is completed, you may KO one of your cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Ancient Kree Armor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_03.png",
+                "tactic": false,
+                "vAttack": "+5",
+                "vp": -1,
+                "overrideType": 4,
+                "overrideSubType": 3,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Rescue 2 Bystanders. Ronan captures this card as a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you gain your first Wound in any turn, you may KO it."
+                    ]
+                ]
+            },
+            {
+                "name": "The Cosmi-Rod Warhammer",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/msgg_ronan_06.png",
+                "tactic": false,
+                "vAttack": "+6",
+                "vp": -1,
+                "overrideType": 4,
+                "overrideSubType": 3,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes. Rescue 2 Bystanders. Ronan captures this card as a ",
+                        {
+                            "keyword": 82,
+                            "text": "Villainous Weapon"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "keyword": 79
+                        },
+                        " — Whenever you recruit a Hero from the HQ, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Ego, the Living Planet",
+        "tacticName": "Ego",
+        "vAttack": "3+",
+        "cards": [
+            {
+                "name": "Ego, the Living Planet",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_01.png",
+                "abilities": [
+                    [
+                        "Ego gets ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each city space. When there are no more city spaces, Good Wins."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Any Villain Group, plus add an additional Villain Group ",
+                        {
+                            "italic": "(even for 1 player)."
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Create an extra city space on the left side of the city. If there are at least 3 Villains in the city, each player gains a Wound. Play another card from the Villain Deck."
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Ego, the Living Planet",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_02.png",
+                "vAttack": "1+",
+                "epic": false,
+                "abilities": [
+                    [
+                        "Ego gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each city space. When there are no more city spaces, Good Wins."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Any Villain Group, plus add two additional Villain Groups ",
+                        {
+                            "italic": "(even for 1 player)."
+                        }
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": This Strike becomes an extra city space to the left side of the city. If there are at least 2 Villains in the city, each player gains a Wound. Play two cards from the Villain Deck."
+                    ]
+                ]
+            },
+            {
+                "name": "I'm a Celestial, Sweetheart",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_04.png",
+                "tactic": false,
+                "vAttack": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": When you draw a new hand of cards at the end of this turn, draw two extra cards."
+                    ],
+                    [
+                        "Destroy the leftmost city space. Any Villain there escapes. Shuffle this Tactic back into Ego's Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "Cover All That Exists",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_03.png",
+                "tactic": false,
+                "vAttack": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You may KO one of your Heroes. Choose a Henchman from any Victory Pile to enter the city."
+                    ],
+                    [
+                        "Destroy the leftmost city space. Any Villain there escapes. Shuffle this Tactic back into Ego's Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "The Expansion is My Purpose",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_05.png",
+                "tactic": false,
+                "vAttack": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " for each empty city space."
+                    ],
+                    [
+                        "Destroy the leftmost city space. Any Villain there escapes. Shuffle this Tactic back into Ego's Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "Until Everything is... Me!",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/ego_06.png",
+                "tactic": false,
+                "vAttack": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Rescue three Bystanders."
+                    ],
+                    [
+                        "Destroy the leftmost city space. Any Villain there escapes. Shuffle this Tactic back into Ego's Tactics."
+                    ]
+                ]
+            }
+        ]
+    }
+]

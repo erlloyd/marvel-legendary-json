@@ -1,0 +1,798 @@
+[
+    {
+        "id": 98,
+        "name": "Reavers",
+        "cards": [
+            {
+                "name": "Donald Pierce",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/reavers_02.png",
+                "qtd": 2,
+                "vAttack": "6",
+                "vp": "4",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the fewest ",
+                        {
+                            "hc": 5
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": KO one of that player's non-grey Heroes."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your grey Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Bonebreaker",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/reavers_01.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the fewest ",
+                        {
+                            "hc": 4
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player gains a Wound to the top of their deck."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Reveal the top card of your deck. KO it or draw it."
+                    ]
+                ]
+            },
+            {
+                "name": "Skullbuster",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/reavers_04.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the fewest ",
+                        {
+                            "hc": 3
+                        },
+                        ". Skullbuster captures one Bystander from the Bystander Stack and two Bystanders from that player's Victory Pile of their choice."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": KO the captured Bystanders, and each player discards a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Pretty Boy",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/reavers_03.png",
+                "qtd": 2,
+                "vAttack": "2",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the fewest ",
+                        {
+                            "hc": 1
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a card."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Discard the top card of your deck. If it has a ",
+                        {
+                            "icon": 2
+                        },
+                        " icon, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "  and this Villain ",
+                        {
+                            "keyword": 74,
+                            "text": "Preys"
+                        },
+                        " on the fewest ",
+                        {
+                            "hc": 1
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Purifiers",
+        "cards": [
+            {
+                "name": "Predator X (Ranged)",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_07.png",
+                "qtd": 1,
+                "vAttack": "3",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "hc": 3
+                        },
+                        ". ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a ",
+                        {
+                            "hc": 3
+                        },
+                        " Hero. If they can't, they discard any non-grey Hero instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Predator X (Tech)",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_06.png",
+                "qtd": 1,
+                "vAttack": "3",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "hc": 5
+                        },
+                        ". ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a ",
+                        {
+                            "hc": 5
+                        },
+                        " Hero. If they can't, they discard any non-grey Hero instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Predator X (Covert)",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_05.png",
+                "qtd": 1,
+                "vAttack": "3",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "hc": 1
+                        },
+                        ". ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a ",
+                        {
+                            "hc": 1
+                        },
+                        " Hero. If they can't, they discard any non-grey Hero instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Predator X (Instinct)",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_04.png",
+                "qtd": 1,
+                "vAttack": "3",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "hc": 2
+                        },
+                        ". ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a ",
+                        {
+                            "hc": 2
+                        },
+                        " Hero. If they can't, they discard any non-grey Hero instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Predator X (Strength)",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_03.png",
+                "qtd": 1,
+                "vAttack": "3",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "hc": 4
+                        },
+                        ". ",
+                        {
+                            "keyword": 72
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player discards a ",
+                        {
+                            "hc": 4
+                        },
+                        " Hero. If they can't, they discard any non-grey Hero instead."
+                    ]
+                ]
+            },
+            {
+                "name": "Leper Queen",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_02.png",
+                "qtd": 1,
+                "vAttack": "4",
+                "vp": "2",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "team": 4
+                        },
+                        "+",
+                        {
+                            "team": 7
+                        },
+                        "+",
+                        {
+                            "team": 23
+                        },
+                        "+",
+                        {
+                            "team": 11
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": That player gains a Wound and KOs two Bystanders from their Victory Pile."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Shuffle two cards from the Bystander Stack into the Villain Deck."
+                    ]
+                ]
+            },
+            {
+                "name": "Reverend William Stryker",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_08.png",
+                "qtd": 1,
+                "vAttack": "5",
+                "vp": "3",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "team": 4
+                        },
+                        "+",
+                        {
+                            "team": 7
+                        },
+                        "+",
+                        {
+                            "team": 23
+                        },
+                        "+",
+                        {
+                            "team": 11
+                        },
+                        ". Stryker captures one ",
+                        {
+                            "rule": 11,
+                            "text": "Sidekick"
+                        },
+                        " from the ",
+                        {
+                            "rule": 11,
+                            "text": "Sidekick"
+                        },
+                        " Stack and two ",
+                        {
+                            "rule": 11
+                        },
+                        " from that player's hand and/or discard pile of their choice."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": KO the captured ",
+                        {
+                            "rule": 11
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Gain the captured ",
+                        {
+                            "rule": 11
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Cameron Hodge",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/purifiers_01.png",
+                "qtd": 1,
+                "vAttack": "6",
+                "vp": "4",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": ",
+                        {
+                            "keyword": 74
+                        },
+                        " on the most ",
+                        {
+                            "team": 4
+                        },
+                        "+",
+                        {
+                            "team": 7
+                        },
+                        "+",
+                        {
+                            "team": 23
+                        },
+                        "+",
+                        {
+                            "team": 11
+                        },
+                        ". Cameron Hodge captures one of that player's non-grey Heroes of their choice."
+                    ],
+                    [
+                        {
+                            "keyword": 74,
+                            "text": "Finish the Prey"
+                        },
+                        ": KO the captured Hero."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose a player to gain the captured Hero."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Acolytes",
+        "cards": [
+            {
+                "name": "Unuscione",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/acolytes_04.png",
+                "qtd": 2,
+                "vAttack": "8",
+                "vAttackAsterisk": false,
+                "vp": "4",
+                "abilities": [
+                    [
+                        "You may pay ",
+                        {
+                            "bold": "2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " any number of times to ",
+                        {
+                            "keyword": 73
+                        },
+                        " Unuscione."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Unuscione captures a Bystander."
+                    ]
+                ]
+            },
+            {
+                "name": "Tempo",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/acolytes_03.png",
+                "qtd": 2,
+                "vAttack": "16",
+                "vAttackAsterisk": false,
+                "vp": "2",
+                "abilities": [
+                    [
+                        "You may ",
+                        {
+                            "keyword": 73
+                        },
+                        " Tempo any number of times. Each time you do this, draw one fewer card when you draw a new hand of cards at the end of this turn."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Draw two cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Frenzy",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/acolytes_01.png",
+                "qtd": 2,
+                "vAttack": "12",
+                "vAttackAsterisk": false,
+                "vp": "3",
+                "abilities": [
+                    [
+                        "You may pay ",
+                        {
+                            "bold": "1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " any number of times to ",
+                        {
+                            "keyword": 73
+                        },
+                        " Frenzy. Each time you do, reveal the top card of the Hero Deck and put it on the bottom of that deck. If it's ",
+                        {
+                            "hc": 4
+                        },
+                        ", gain a Wound. If it's ",
+                        {
+                            "hc": 2
+                        },
+                        ", the player on your right gains a Wound."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Random",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/acolytes_02.png",
+                "qtd": 2,
+                "vAttack": "10",
+                "vAttackAsterisk": false,
+                "vp": "4",
+                "abilities": [
+                    [
+                        "You may pay ",
+                        {
+                            "bold": "1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " any number of times to ",
+                        {
+                            "keyword": 73
+                        },
+                        " Random. Each time you do, reveal the top card of the Hero Deck and put it on the bottom of that deck. If it's ",
+                        {
+                            "hc": 1
+                        },
+                        ", ",
+                        {
+                            "hc": 5
+                        },
+                        ", or ",
+                        {
+                            "hc": 3
+                        },
+                        ", Random then gets ",
+                        {
+                            "bold": "+"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " equal to that card's cost."
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Each player discards a card at random."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Clan Yashida",
+        "cards": [
+            {
+                "name": "Silver Samurai",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/clan_yashida_04.png",
+                "qtd": 2,
+                "vAttack": "3",
+                "vAttackAsterisk": false,
+                "vp": "3",
+                "abilities": [
+                    {
+                        "keyword": 52
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": The Villain in the city worth the most VP captures a Bystander."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO a card from your discard pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Scarlet Samurai",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/clan_yashida_03.png",
+                "qtd": 2,
+                "vAttack": "3",
+                "vAttackAsterisk": false,
+                "hc": 2,
+                "team": 8,
+                "attack": "2",
+                "overrideType": 1,
+                "abilities": [
+                    {
+                        "keyword": 52
+                    },
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Gain this as a Hero."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Lord Shingen",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/clan_yashida_02.png",
+                "qtd": 2,
+                "vAttack": "4",
+                "vAttackAsterisk": false,
+                "vp": "5",
+                "abilities": [
+                    {
+                        "keyword": 52
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Lord Shingen captures a Bystander."
+                    ],
+                    [
+                        "Bystanders held by Lord Shingen are “Samurai Bodyguards.“ You can't fight Lord Shingen while he has any Bodyguards. You can fight them as if they were ",
+                        {
+                            "bold": "3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " Villains with “",
+                        {
+                            "keyword": 52
+                        },
+                        ". ",
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Rescue this as a Bystander.“"
+                    ]
+                ]
+            },
+            {
+                "name": "Gorgon",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/clan_yashida_01.png",
+                "qtd": 2,
+                "vAttack": "5",
+                "vAttackAsterisk": false,
+                "vp": "4",
+                "abilities": [
+                    {
+                        "keyword": 52
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Choose a Hero Name. You can't play Heroes this turn unless they are that Hero Name or grey Heroes."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes."
+                    ]
+                ]
+            }
+        ]
+    }
+]

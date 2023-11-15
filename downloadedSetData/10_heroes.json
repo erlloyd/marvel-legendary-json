@@ -1,0 +1,734 @@
+[
+    {
+        "id": 245,
+        "name": "King Black Panther",
+        "team": 24,
+        "cards": [
+            {
+                "name": "Unseen Protector",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/KingBlackPanther_2Common.png",
+                "hc": 2,
+                "hc2": 1,
+                "rarity": 1,
+                "cost": 2,
+                "recruit": "1+",
+                "abilities": [
+                    [
+                        {
+                            "team": 24
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": Rescue a Bystander."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        "Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, you may spend it to get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Vibranium Claws",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/KingBlackPanther_3Common.png",
+                "hc": 2,
+                "hc2": 5,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 2
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, you may spend it to get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Heart-Shaped Herb",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/KingBlackPanther_4Uncommon.png",
+                "hc": 4,
+                "hc2": 1,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3",
+                "abilities": [
+                    [
+                        {
+                            "hc": 1
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": Look at the top card of your deck. Draw it or KO it."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already had it, you may spend it to look at the top card of your deck. Draw it or KO it."
+                    ]
+                ]
+            },
+            {
+                "name": "Unite the Tribes of Wakanda",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/KingBlackPanther_1Rare.png",
+                "hc": 4,
+                "hc2": 3,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "5+",
+                "recruit": "0+",
+                "abilities": [
+                    [
+                        {
+                            "team": 24
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each Hero Class you have."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "team": 24
+                        },
+                        ": Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already had it, you may spend it to get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " and ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each Hero Class you have."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "name": "Queen Storm of Wakanda",
+        "team": 24,
+        "cards": [
+            {
+                "name": "Hurricane Winds",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/QueenStormofWakanda_2Common.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2",
+                "attack": "0+",
+                "abilities": [
+                    [
+                        "You may move a Villain to an adjacent city space. If another Villain is already there, swap them."
+                    ],
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": You get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Torrential Downpour",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/QueenStormofWakanda_3Common.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 3
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": You get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 3
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ": You get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 3
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Forked Lightning",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/QueenStormofWakanda_4Uncommon.png",
+                "hc": 1,
+                "hc2": 3,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "3",
+                "abilities": [
+                    [
+                        "Wound Villains on the Rooftops and Bridge."
+                    ],
+                    [
+                        {
+                            "hc": 1
+                        },
+                        {
+                            "hc": 3
+                        },
+                        ": Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already had it, you may spend it to ",
+                        {
+                            "rule": 15,
+                            "text": "Wound the Mastermind"
+                        },
+                        " twice."
+                    ]
+                ]
+            },
+            {
+                "name": "Thunderous Tempest",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/QueenStormofWakanda_1Rare.png",
+                "hc": 3,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "5+",
+                "abilities": [
+                    [
+                        "Choose up to three Heroes from the HQ. Put them on the bottom of the Hero Deck."
+                    ],
+                    [
+                        {
+                            "team": 24
+                        },
+                        ": Gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already had it, you may spend it to get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 1
+                        },
+                        ", then get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 3
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "name": "Princess Shuri",
+        "team": 24,
+        "cards": [
+            {
+                "name": "Vibranium Experiments",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/PrincessShuri_2Common.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 2,
+                "attack": "0+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": Draw a card."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    "Draw a card.",
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": You get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by ",
+                        {
+                            "hc": 5
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Kimoyo Beads",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/PrincessShuri_3Common.png",
+                "hc": 5,
+                "hc2": 3,
+                "rarity": 1,
+                "cost": 4,
+                "recruit": "0+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by the color of your choice, getting ",
+                        {
+                            "icon": 2
+                        },
+                        " instead of ",
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Shock Net",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/PrincessShuri_4Uncommon.png",
+                "hc": 3,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "3+",
+                "abilities": [
+                    [
+                        "You may put a card from the HQ on the bottom of the Hero Deck."
+                    ],
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ": Then you get ",
+                        {
+                            "keyword": 51
+                        },
+                        " by the color of your choice."
+                    ]
+                ]
+            },
+            {
+                "name": "Become the Next Black Panther",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/PrincessShuri_1Rare.png",
+                "hc": 2,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "3+",
+                "recruit": "3",
+                "abilities": [
+                    [
+                        {
+                            "team": 24
+                        },
+                        ": This turn, each card entering the HQ also has “",
+                        {
+                            "keyword": 83
+                        },
+                        ": If you have any cards that share a color with this, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        ".“"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "name": "General Okoye",
+        "team": 24,
+        "cards": [
+            {
+                "name": "To My Last Breath",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/GeneralOkoye_2Common.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 2
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": Draw a card."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": You may draw a card and get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        ". If you do, gain a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Lead the Dora Milaje",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/GeneralOkoye_3Common.png",
+                "hc": 4,
+                "hc2": 2,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    "You may gain a S.H.I.E.L.D. Officer.",
+                    [
+                        {
+                            "hc": 4
+                        },
+                        ": Instead, you may KO a S.H.I.E.L.D. Officer or Wound from your hand or discard pile to get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Sovereign Bodyguard",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/GeneralOkoye_4Uncommon.png",
+                "hc": 4,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3",
+                "abilities": [
+                    [
+                        "Once per turn, when a player gains a Wound, you may reveal this card to return that Wound to the Wound Stack, draw a card, and ",
+                        {
+                            "rule": 15,
+                            "text": "Wound a Villain"
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Direct the Agents of Wakanda",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/GeneralOkoye_1Rare.png",
+                "hc": 1,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "4+",
+                "abilities": [
+                    [
+                        {
+                            "team": 24
+                        },
+                        ": You may KO a ",
+                        {
+                            "team": 2
+                        },
+                        " Hero or Wound from your hand or discard pile to get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "name": "White Wolf",
+        "team": 24,
+        "cards": [
+            {
+                "name": "Secret Assignment",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/WhiteWolf_2Common.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 1
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": ",
+                        {
+                            "rule": 15,
+                            "text": "Wound the Mastermind"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": If any ",
+                        {
+                            "rule": 15,
+                            "text": "Villain or Mastermind has any Wounds"
+                        },
+                        ", you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Cloaking Tech Ambush",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/WhiteWolf_3Common.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": ",
+                        {
+                            "rule": 15,
+                            "text": "Wound a Villain"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": ",
+                        {
+                            "rule": 15,
+                            "text": "Wound a Villain"
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Command the Hatut Zeraze",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/WhiteWolf_4Uncommon.png",
+                "hc": 1,
+                "hc2": 5,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3",
+                "abilities": [
+                    [
+                        {
+                            "team": 24
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": You may KO one of your cards."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        {
+                            "team": 24
+                        },
+                        ": If any ",
+                        {
+                            "rule": 15,
+                            "text": "Villain or Mastermind has any Wounds"
+                        },
+                        ", you may KO a card from your hand or discard pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Reflective Vibranium Armor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/WhiteWolf_1Rare.png",
+                "hc": 5,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "4",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        " ",
+                        {
+                            "keyword": 83
+                        },
+                        ": ",
+                        {
+                            "rule": 15,
+                            "text": "Wound each Villain and the Mastermind"
+                        },
+                        "."
+                    ],
+                    {
+                        "divider": false
+                    },
+                    [
+                        "If a Master Strike would occur, you may reveal this card to KO that Strike and ",
+                        {
+                            "rule": 15,
+                            "text": "Wound the Mastermind"
+                        },
+                        " instead."
+                    ]
+                ]
+            }
+        ]
+    }
+]

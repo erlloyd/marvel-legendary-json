@@ -1,0 +1,333 @@
+[
+    {
+        "id": 74,
+        "name": "Maximus the Mad",
+        "tacticName": "Maximus",
+        "vAttack": "8",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Maximus the Mad",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_01.png",
+                "vAttack": "8+",
+                "abilities": [
+                    {
+                        "keyword": 25,
+                        "text": "Highest Abomination"
+                    },
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Inhuman Rebellion"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Reveal one of Maximus' remaining Mastermind Tactics at random. Use its Fight effect, then shuffle it back into those Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Maximus the Mad",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_02.png",
+                "vAttack": "9+",
+                "epic": false,
+                "abilities": [
+                    {
+                        "keyword": 25,
+                        "text": "Double Highest Abomination"
+                    },
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Inhuman Rebellion"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Reveal two different Tactics at random from Maximus' remaining Mastrmind Tactics. Then use each of those fight effects in the order that you revealed them. Then shuffle them back into those Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "Echo-Tech Chorus Sentries",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each player KOs one of their ",
+                        {
+                            "hc": 5
+                        },
+                        " or ",
+                        {
+                            "team": 22
+                        },
+                        " Heroes or gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Sieve of Secrets",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_06.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each player reveals the top 6 cards of their deck, discards all the non-grey Heroes revealed, and puts the rest back in any order."
+                    ]
+                ]
+            },
+            {
+                "name": "Seize the Inhuman Throne",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each player discards down to 4 cards. Maximus gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If he already has it, he spends it and each player discards down to 3 cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Terrigen Bomb",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/maximus_05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Put each Hero from the HQ that doesn't have a printed ",
+                        {
+                            "icon": 1
+                        },
+                        " of 2 or more on the bottom of the Hero Deck. Maximus gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If he already had it, he spends it and each player KOs one of their non-grey Heroes with an ",
+                        {
+                            "icon": 1
+                        },
+                        " icon."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Emperor Vulcan of the Shi'ar",
+        "tacticName": "Vulcan",
+        "vAttack": "10",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Emperor Vulcan of the Shi'ar",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_01.png",
+                "vAttack": "10+",
+                "abilities": [
+                    [
+                        "Vulcan gets ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he has the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Shi'ar Imperial Elite"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player that doesn't have the ",
+                        {
+                            "keyword": 70
+                        },
+                        " gains a Wound. Then Vulcan gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Epic Emperor Vulcan",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_02.png",
+                "vAttack": "12+",
+                "epic": false,
+                "abilities": [
+                    [
+                        "Vulcan gets ",
+                        {
+                            "bold": "+5"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " while he has the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". He starts with the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Shi'ar Imperial Elite"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Each player that doesn't have the ",
+                        {
+                            "keyword": 70
+                        },
+                        " gains a Wound to the top of their deck. Then Vulcan gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Blast Every Form of Energy",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If you have the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", you may KO a card you played this turn, and you may KO a card from your discard pile."
+                    ],
+                    [
+                        "Then Vulcan gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Vast Wealth of the Shi'ar",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_06.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If you have the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", you get ",
+                        {
+                            "bold": "+4"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ],
+                    [
+                        "Then Vulcan gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Contempt for Weakness",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Vulcan has the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", each other player discards each of their cards that costs 2 or less."
+                    ],
+                    [
+                        "Then you gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Solar Cage",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/emperor_vulcan_05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If Vulcan has the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", each other player shuffles a Wound from the Wound Stack and a non-grey Hero from their hand into their deck."
+                    ],
+                    [
+                        "Then you gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    }
+]

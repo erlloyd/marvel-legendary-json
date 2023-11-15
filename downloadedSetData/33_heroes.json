@@ -1,0 +1,1273 @@
+[
+    {
+        "id": 1,
+        "name": "Black Widow",
+        "filterName": "Black Widow (Core/MS)",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Dangerous Rescue",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/black-widow-04.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2",
+                "abilities": [
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": You may KO a card from your hand or discard pile. If you do, rescue a Bystander."
+                    ]
+                ]
+            },
+            {
+                "name": "Mission Accomplished",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/black-widow-03.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 2,
+                "abilities": [
+                    "Draw a Card.",
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": Rescue a Bystander."
+                    ]
+                ]
+            },
+            {
+                "name": "Covert Operation",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/black-widow-02.png",
+                "hc": 1,
+                "rarity": 2,
+                "cost": 4,
+                "attack": "0+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each Bystander in your Victory Pile."
+                    ]
+                ]
+            },
+            {
+                "name": "Silent Sniper",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/black-widow-01.png",
+                "hc": 1,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "Defeat a Villain or Mastermind that has a Bystander."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Avengers Assemble!",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/captain-america-04.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "0+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " for each color of Hero you have."
+                    ]
+                ]
+            },
+            {
+                "name": "Perfect Teamwork",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/captain-america-03.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "0+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each color of Hero you have."
+                    ]
+                ]
+            },
+            {
+                "name": "Diving Block",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/captain-america-02.png",
+                "hc": 5,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "If you would gain a Wound, you may reveal this card and draw a card instead."
+                    ]
+                ]
+            },
+            {
+                "name": "A Day Unlike Any Other",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/captain-america-01.png",
+                "hc": 1,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "3+",
+                "abilities": [
+                    [
+                        {
+                            "team": 1
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each other ",
+                        {
+                            "team": 1
+                        },
+                        " you played this turn."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cyclops",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Determination",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/cyclops-03.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 2,
+                "recruit": "3",
+                "abilities": [
+                    [
+                        "To play this card, you must discard a card from your hand. "
+                    ]
+                ]
+            },
+            {
+                "name": "Optic Blast",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/cyclops-04.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "3",
+                "abilities": [
+                    [
+                        "To play this card, you must discard a card from your hand."
+                    ]
+                ]
+            },
+            {
+                "name": "Unending Energy",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/cyclops-02.png",
+                "hc": 3,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "If a card effect makes you discard this card, you may return this card to your hand."
+                    ]
+                ]
+            },
+            {
+                "name": "X-Men United",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/cyclops-01.png",
+                "hc": 3,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "6+",
+                "abilities": [
+                    [
+                        {
+                            "team": 4
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each other ",
+                        {
+                            "team": 4
+                        },
+                        " Hero you played this turn."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Deadpool",
+        "filterName": "Deadpool (Core Set)",
+        "team": 0,
+        "cards": [
+            {
+                "name": "Here, Hold This for a Second",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/deadpool-04.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2",
+                "abilities": [
+                    [
+                        "A Villain of your choice captures a Bystander."
+                    ]
+                ]
+            },
+            {
+                "name": "Oddball",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/deadpool-03.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 5,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each other Hero with an odd-numbered ",
+                        {
+                            "icon": 3
+                        },
+                        " you played this turn."
+                    ]
+                ]
+            },
+            {
+                "name": "Hey, Can I Get a Do-Over?",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/deadpool-02.png",
+                "hc": 2,
+                "rarity": 2,
+                "cost": 3,
+                "attack": "2",
+                "abilities": [
+                    [
+                        "If this is the first Hero you played this turn, you may discard the rest of your hand and draw four cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Random Acts of Unkindness",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/deadpool-01.png",
+                "hc": 2,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "6",
+                "abilities": [
+                    [
+                        "You may gain a Wound to your hand. Then each player passes a card from their hand to the player on their left."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Emma Frost",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Mental Discipline",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/emma-frost-03.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "1",
+                "abilities": [
+                    [
+                        "Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Shadowed Thoughts",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/emma-frost-04.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": You may play the top card of the Villain Deck. If you do, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Psychic Link",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/emma-frost-02.png",
+                "hc": 2,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3",
+                "abilities": [
+                    [
+                        "Each player may reveal another ",
+                        {
+                            "team": 4
+                        },
+                        " Hero. Each player who does draws a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Diamond Form",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/emma-frost-01.png",
+                "hc": 4,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "5",
+                "recruit": "0+",
+                "abilities": [
+                    [
+                        "Whenever you defeat a Villain or Mastermind this turn, you get ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Gambit",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Card Shark",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/gambit-03.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2",
+                "abilities": [
+                    [
+                        "Reveal the top card of your deck. If it's an ",
+                        {
+                            "team": 4
+                        },
+                        " Hero, draw it."
+                    ]
+                ]
+            },
+            {
+                "name": "Stack the Deck",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/gambit-04.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 2,
+                "abilities": [
+                    [
+                        "Draw two cards. Then put a card from your hand on top of your deck."
+                    ]
+                ]
+            },
+            {
+                "name": "Hypnotic Charm",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/gambit-02.png",
+                "hc": 2,
+                "rarity": 2,
+                "cost": 3,
+                "recruit": "2",
+                "abilities": [
+                    [
+                        "Reveal the top card of your deck. Discard it or put it back."
+                    ],
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": Do the same thing to each other player's deck."
+                    ]
+                ]
+            },
+            {
+                "name": "High Stakes Jackpot",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/gambit-01.png",
+                "hc": 2,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "4+",
+                "abilities": [
+                    [
+                        "Reveal the top card of your deck. You get ",
+                        {
+                            "bold": "+"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " equal to that card's cost."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hawkeye",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Quick Draw",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hawkeye-03.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "1",
+                "abilities": [
+                    [
+                        "Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Team Player",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hawkeye-04.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "team": 1
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Covering Fire",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hawkeye-02.png",
+                "hc": 5,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": Choose one: each other player draws a card or each other player discards a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Impossible Trick Shot",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hawkeye-01.png",
+                "hc": 5,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "5",
+                "abilities": [
+                    [
+                        "Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Hulk",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Growing Anger",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hulk-03.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 4
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Unstoppable Hulk",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hulk-04.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        "You may KO a Wound from your hand or discard pile. If you do, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Crazed Rampage",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hulk-02.png",
+                "hc": 4,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "Each player gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Hulk Smash!",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/hulk-01.png",
+                "hc": 4,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "5+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 4
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+5"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Iron Man",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Endless Invention",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/iron-man-04.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 3,
+                "abilities": [
+                    [
+                        "Draw a card."
+                    ],
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": Draw another card."
+                    ]
+                ]
+            },
+            {
+                "name": "Repulsor Rays",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/iron-man-03.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Arc Reactor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/iron-man-02.png",
+                "hc": 5,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "3+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each other",
+                        {
+                            "hc": 5
+                        },
+                        " Hero you played this turn."
+                    ]
+                ]
+            },
+            {
+                "name": "Quantum Breakthrough",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/iron-man-01.png",
+                "hc": 5,
+                "rarity": 3,
+                "cost": 7,
+                "abilities": [
+                    "Draw two cards.",
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": Draw two more cards."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Nick Fury",
+        "set": [
+            1,
+            20
+        ],
+        "team": 2,
+        "cards": [
+            {
+                "name": "Battlefield Promotion",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/nick-fury-04.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 4,
+                "abilities": [
+                    [
+                        "You may KO a ",
+                        {
+                            "team": 2
+                        },
+                        " Hero from your hand or discard pile. If you do, you may gain a S.H.I.E.L.D. Officer to your hand."
+                    ]
+                ]
+            },
+            {
+                "name": "High-Tech Weaponry",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/nick-fury-03.png",
+                "hc": 5,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 5
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Legendary Commander",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/nick-fury-02.png",
+                "hc": 4,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "1+",
+                "abilities": [
+                    [
+                        "You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each other",
+                        {
+                            "team": 2
+                        },
+                        " Hero you played this turn."
+                    ]
+                ]
+            },
+            {
+                "name": "Pure Fury",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/nick-fury-01.png",
+                "hc": 5,
+                "rarity": 3,
+                "cost": 8,
+                "abilities": [
+                    [
+                        "Defeat any Villain or Mastermind whose ",
+                        {
+                            "icon": 1
+                        },
+                        " is less than the number of ",
+                        {
+                            "team": 2
+                        },
+                        " Heroes in the KO pile."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Rogue",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Borrowed Brawn",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/rogue-03.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "1+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 4
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Energy Drain",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/rogue-04.png",
+                "hc": 1,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 1
+                        },
+                        ": You may KO a card from your hand or discard pile. If you do, you get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Copy Powers",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/rogue-02.png",
+                "hc": 1,
+                "rarity": 2,
+                "cost": 5,
+                "abilities": [
+                    [
+                        "Play this card as a copy of another Hero you played this turn. This card is both ",
+                        {
+                            "hc": 1
+                        },
+                        " and the color you copy."
+                    ]
+                ]
+            },
+            {
+                "name": "Steal Abilities",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/rogue-01.png",
+                "hc": 4,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "Each player discards the top card of their deck. Play a copy of each of those cards."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Spider-Man",
+        "team": 3,
+        "cards": [
+            {
+                "name": "Astonishing Strength",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/spider-man-04.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 2,
+                "recruit": "1",
+                "abilities": [
+                    [
+                        "Reveal the top card of your deck. If that card costs ",
+                        {
+                            "bold": "2"
+                        },
+                        {
+                            "icon": 3
+                        },
+                        " or less, draw it."
+                    ]
+                ]
+            },
+            {
+                "name": "Great Responsibility",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/spider-man-03.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 2,
+                "attack": "1",
+                "abilities": [
+                    [
+                        "Reveal the top card of your deck. If that card costs ",
+                        {
+                            "bold": "2"
+                        },
+                        {
+                            "icon": 3
+                        },
+                        " or less, draw it."
+                    ]
+                ]
+            },
+            {
+                "name": "Web-Shooters",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/spider-man-02.png",
+                "hc": 5,
+                "rarity": 2,
+                "cost": 2,
+                "abilities": [
+                    [
+                        "Rescue a Bystander."
+                    ],
+                    [
+                        "Reveal the top card of your deck. If that card costs ",
+                        {
+                            "bold": "2"
+                        },
+                        {
+                            "icon": 3
+                        },
+                        " or less, draw it."
+                    ]
+                ]
+            },
+            {
+                "name": "The Amazing Spider-Man",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/spider-man-01.png",
+                "hc": 1,
+                "rarity": 3,
+                "cost": 2,
+                "abilities": [
+                    [
+                        "Reveal the top three cards of your deck. Put any that cost ",
+                        {
+                            "bold": "2"
+                        },
+                        {
+                            "icon": 3
+                        },
+                        " or less into your hand. Put the rest back in any order."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Storm",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Gathering Stormclouds",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/storm-03.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2",
+                "abilities": [
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ":  Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Lightning Bolt",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/storm-04.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 4,
+                "attack": "2",
+                "abilities": [
+                    [
+                        "Any Villain you fight on the Rooftops this turn gets ",
+                        {
+                            "bold": "-2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Spinning Cyclone",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/storm-01.png",
+                "hc": 1,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "4",
+                "abilities": [
+                    [
+                        "You may move a Villain to a new city space. Rescue any Bystanders captured by that Villain."
+                    ],
+                    [
+                        {
+                            "italic": "(If you move a Villain to a city space that already has Villain, swap them.)"
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "Tidal Wave",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/storm-02.png",
+                "hc": 3,
+                "rarity": 3,
+                "cost": 7,
+                "attack": "5",
+                "abilities": [
+                    [
+                        "Any Villain you fight on the Bridge this turn gets ",
+                        {
+                            "bold": "-2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ": The Mastermind gets ",
+                        {
+                            "bold": "-2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " this turn."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Thor",
+        "filterName": "Thor (Core Set)",
+        "set": [
+            1,
+            20
+        ],
+        "team": 1,
+        "cards": [
+            {
+                "name": "Odinson",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/thor-03.png",
+                "hc": 4,
+                "rarity": 1,
+                "cost": 3,
+                "recruit": "2+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 4
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Surge of Power",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/thor-04.png",
+                "hc": 3,
+                "rarity": 1,
+                "cost": 4,
+                "recruit": "2",
+                "attack": "0+",
+                "abilities": [
+                    [
+                        "If you made ",
+                        {
+                            "bold": "8"
+                        },
+                        " or more ",
+                        {
+                            "icon": 2
+                        },
+                        " this turn, you get ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Call Lightning",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/thor-02.png",
+                "hc": 3,
+                "rarity": 2,
+                "cost": 6,
+                "attack": "3+",
+                "abilities": [
+                    [
+                        {
+                            "hc": 3
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+3"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "God of Thunder",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/thor-01.png",
+                "hc": 3,
+                "rarity": 3,
+                "cost": 8,
+                "recruit": "5",
+                "attack": "0+",
+                "abilities": [
+                    [
+                        "You can use ",
+                        {
+                            "icon": 2
+                        },
+                        " as ",
+                        {
+                            "icon": 1
+                        },
+                        " this turn."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Wolverine",
+        "filterName": "Wolverine (Core Set)",
+        "team": 4,
+        "cards": [
+            {
+                "name": "Keen Senses",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/wolverine-04.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 2,
+                "attack": "1",
+                "abilities": [
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": Draw a card."
+                    ]
+                ]
+            },
+            {
+                "name": "Healing Factor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/wolverine-03.png",
+                "hc": 2,
+                "rarity": 1,
+                "cost": 3,
+                "attack": "2",
+                "abilities": [
+                    "You may KO a Wound from your hand or discard pile. If you do, draw a card."
+                ]
+            },
+            {
+                "name": "Frenzied Slashing",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/wolverine-02.png",
+                "hc": 2,
+                "rarity": 2,
+                "cost": 5,
+                "attack": "2",
+                "abilities": [
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": Draw two cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Berserker Rage",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Heroes/wolverine-01.png",
+                "hc": 2,
+                "rarity": 3,
+                "cost": 8,
+                "attack": "0+",
+                "abilities": [
+                    "Draw three cards.",
+                    [
+                        {
+                            "hc": 2
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        " for each extra card you've drawn this turn."
+                    ]
+                ]
+            }
+        ]
+    }
+]

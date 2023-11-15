@@ -1,0 +1,294 @@
+[
+    {
+        "id": 94,
+        "name": "Inhuman Rebellion",
+        "cards": [
+            {
+                "name": "Lineage",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/inhuman_rebellion_02.png",
+                "qtd": 2,
+                "vp": "2",
+                "vAttack": "3+",
+                "abilities": [
+                    {
+                        "keyword": 25
+                    },
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Rescue Bystanders equal to the printed ",
+                        {
+                            "icon": 1
+                        },
+                        " of the Hero in the HQ space under Lineage."
+                    ]
+                ]
+            },
+            {
+                "name": "Omega",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/inhuman_rebellion_03.png",
+                "qtd": 2,
+                "vp": "3",
+                "vAttack": "4+",
+                "abilities": [
+                    {
+                        "keyword": 25
+                    },
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Choose “Alpha“ or “Omega.“ Then reveal the top card of your deck:"
+                    ],
+                    {
+                        "points": [
+                            [
+                                {
+                                    "bold": "Alpha"
+                                },
+                                ": If that card costs 0, KO it."
+                            ],
+                            [
+                                {
+                                    "bold": "Omega"
+                                },
+                                ": If that card costs 1 or more, draw it."
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lash",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/inhuman_rebellion_01.png",
+                "qtd": 2,
+                "vp": "4",
+                "vAttack": "5+",
+                "abilities": [
+                    {
+                        "keyword": 25
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Choose a Hero from the HQ that doesn't have a printed ",
+                        {
+                            "icon": 1
+                        },
+                        " of 2 or more. Put it on the bottom of the Hero Deck."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Gain a Hero from the HQ with no ",
+                        {
+                            "icon": 1
+                        },
+                        " icon that costs 4 or less."
+                    ]
+                ]
+            },
+            {
+                "name": "The Unspoken",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/inhuman_rebellion_04.png",
+                "qtd": 2,
+                "vp": "5",
+                "vAttack": "5+",
+                "abilities": [
+                    {
+                        "keyword": 25,
+                        "text": "Double Abomination"
+                    },
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": Choose a Hero from the HQ that doesn't have a printed ",
+                        {
+                            "icon": 1
+                        },
+                        " of 2 or more. Put it on the bottom of the Hero Deck. If there were no such Heroes, then each player gains a Wound instead."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": KO one of your Heroes with no ",
+                        {
+                            "icon": 1
+                        },
+                        " icon."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Shi'ar Imperial Elite",
+        "cards": [
+            {
+                "name": "Plutonia",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/shiar_imperial_elite_03.png",
+                "qtd": 2,
+                "vp": "2",
+                "vAttack": "4",
+                "vAttackAsterisk": false,
+                "abilities": [
+                    [
+                        "While the Mastermind has the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", you must spend ",
+                        {
+                            "icon": 2
+                        },
+                        " to fight Plutonia instead of ",
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": The Mastermind gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, you get ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        "."
+                    ]
+                ]
+            },
+            {
+                "name": "Starbolt",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/shiar_imperial_elite_04.png",
+                "qtd": 2,
+                "vp": "3",
+                "vAttack": "4+",
+                "abilities": [
+                    [
+                        "While the Mastermind has the ",
+                        {
+                            "keyword": 70
+                        },
+                        ", Starbolt gets ",
+                        {
+                            "bold": "+2"
+                        },
+                        {
+                            "icon": 1
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": The Mastermind gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        "."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, you may KO one of your Heroes."
+                    ]
+                ]
+            },
+            {
+                "name": "Mentor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/shiar_imperial_elite_02.png",
+                "qtd": 2,
+                "vp": "3",
+                "vAttack": "5",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": The Mastermind gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If they already have it, each player discards a card."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, draw two cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Gladiator",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Villains/shiar_imperial_elite_01.png",
+                "qtd": 2,
+                "vp": "5",
+                "vAttack": "7",
+                "abilities": [
+                    [
+                        {
+                            "bold": "Ambush"
+                        },
+                        ": The Mastermind gains the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If they already have it, each player gains a Wound."
+                    ],
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You gain the ",
+                        {
+                            "keyword": 70
+                        },
+                        ". If you already have it, you may KO a card from your discard pile."
+                    ],
+                    [
+                        {
+                            "bold": "Escape"
+                        },
+                        ": Repeat the Ambush effect."
+                    ]
+                ]
+            }
+        ]
+    }
+]

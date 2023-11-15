@@ -1,0 +1,202 @@
+[
+    {
+        "id": 36,
+        "name": "Evil Deadpool",
+        "vAttack": "11",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Evil Deadpool",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/evil-deadpool-01.png",
+                "vAttack": "11+",
+                "abilities": [
+                    {
+                        "keyword": 31,
+                        "text": "Revenge for Mastermind Tactics"
+                    },
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Evil Deadpool Corpse"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Without talking, each player simultaneously discards a card. Whoever discards the lowest-costing card ",
+                        {
+                            "italic": "(or tied for lowest)"
+                        },
+                        " gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Evil Even Oddball",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/evil-deadpool-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player reveals their hand. Whoever has the fewest cards with odd-numbered costs ",
+                        {
+                            "italic": "(or tied for fewest)"
+                        },
+                        " gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Hyper-Insane Healing Factor",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/evil-deadpool-02.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": If this is not the final Tactic, you get ",
+                        {
+                            "bold": "+6"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " and shuffle this Tactic back into the other Tactics."
+                    ]
+                ]
+            },
+            {
+                "name": "Of Course it's Corpse",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/evil-deadpool-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": The other player with the fewest Evil Deadpool Corpse Villains in their Victory Pile ",
+                        {
+                            "italic": "(or tied for fewest)"
+                        },
+                        " gains a Wound."
+                    ]
+                ]
+            },
+            {
+                "name": "Stitched from Dead (Pool) Parts",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/evil-deadpool-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player discards the top card of their deck. Whoever discards the lowest-costing card ",
+                        {
+                            "italic": "(or tied for lowest)"
+                        },
+                        " gains a Wound."
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Macho Gomez",
+        "vAttack": "9",
+        "vp": 6,
+        "cards": [
+            {
+                "name": "Macho Gomez",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/macho-gomez-01.png",
+                "vAttack": "9+",
+                "abilities": [
+                    {
+                        "keyword": 31,
+                        "text": "Revenge for Deadpool's “Friends“"
+                    },
+                    [
+                        {
+                            "bold": "Always Leads"
+                        },
+                        ": Deadpool's “Friends“"
+                    ],
+                    [
+                        {
+                            "bold": "Master Strike"
+                        },
+                        ": Put this Strike in front of you as a “Bounty on Your Head.“ Then, each player gains a Wound for each Bounty on them. Any number of times during your turn, you may pay 1",
+                        {
+                            "icon": 2
+                        },
+                        " to move a Bounty from you to the player on your left."
+                    ]
+                ]
+            },
+            {
+                "name": "Bounty Payout",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/macho-gomez-02.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": You get ",
+                        {
+                            "bold": "+1"
+                        },
+                        {
+                            "icon": 2
+                        },
+                        " for each “Bounty on Your Head“ on other players."
+                    ]
+                ]
+            },
+            {
+                "name": "Interstellar Assassin",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/macho-gomez-03.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Each other player with at least one “Bounty on Your Head“ discards down to 4 cards."
+                    ]
+                ]
+            },
+            {
+                "name": "Renegotiate the Contract",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/macho-gomez-04.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Redistribute the “Bounty on Your Head“ cards among any number of players."
+                    ]
+                ]
+            },
+            {
+                "name": "Super Macho Man",
+                "imageUrl": "https://nyc3.digitaloceanspaces.com/bageltop/CardImages/Masterminds/macho-gomez-05.png",
+                "tactic": false,
+                "abilities": [
+                    [
+                        {
+                            "bold": "Fight"
+                        },
+                        ": Rescue a Bystander for each “Bounty on Your Head“ on other players."
+                    ]
+                ]
+            }
+        ]
+    }
+]
