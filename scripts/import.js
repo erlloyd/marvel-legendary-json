@@ -75,13 +75,14 @@ const doWork = async (thing) => {
     packs.forEach((pack, index) => {
       console.log("Working with pack " + pack.name);
       const currentString = js.data.substr(pack.index);
+      // const currentString = `[{keyword:27},[{hc:1},": You get ",{bold:"+1"},{icon:2},"."]]`;
 
-      // console.log(currentString.substr(0, 100));
-
-      // return;
+      // if (pack.name !== "Deadpool") {
+      //   return;
+      // }
 
       // fs.writeFileSync(
-      //   path.join(setsRawJSONDir, `${index + 1}_RAW.json`),
+      //   path.join(setsRawJSONDir, `${pack.name}_RAW.json`),
       //   currentString
       // );
 
@@ -91,22 +92,59 @@ const doWork = async (thing) => {
       // For the whole string, make it try to be valid json:
       var prettyString = currentString
         // Replace ": " special cases
-        .replaceAll('": "', '"@colon@ "')
+        .replaceAll('": ', '"@colon@ ')
+        .replaceAll(': "]', '@colon@ "]')
+        .replaceAll(':"]', '@colon@"]')
         .replaceAll("one: ", "one@colon@ ")
         .replaceAll("different option:", "different option@colon@")
         .replaceAll("hoose one:", "hoose one@colon@")
         .replaceAll("your deck:", "your deck@colon@")
+        .replaceAll("Ambush:", "Ambush@colon@")
+        .replaceAll("Tactic:", "Tactic@colon@")
+        .replaceAll("Players:", "Players@colon@")
+        .replaceAll("Escape:", "Escape@colon@")
+        .replaceAll("Otherwise:", "Otherwise@colon@")
+        .replaceAll("Fight:", "Fight@colon@")
+        .replaceAll("final tactic:", "final tactic@colon@")
+        .replaceAll("Poland:", "Poland@colon@")
+        .replaceAll("France:", "France@colon@")
+        .replaceAll("USSR:", "USSR@colon@")
+        .replaceAll("England:", "England@colon@")
+        .replaceAll("USA:", "USA@colon@")
+        .replaceAll("Australia:", "Australia@colon@")
+        .replaceAll("Switzerland:", "Switzerland@colon@")
+        .replaceAll("a player:", "a player@colon@")
+        .replaceAll("1 player:", "1 player@colon@")
+        .replaceAll("2 players:", "2 players@colon@")
+        .replaceAll("2+ players:", "2+ players@colon@")
+        .replaceAll("3 players:", "3 players@colon@")
+        .replaceAll("4 players:", "4 players@colon@")
+        .replaceAll("5 players:", "5 players@colon@")
+        .replaceAll("Class:", "Class@colon@")
+        .replaceAll("the game:", "the game@colon@")
+        .replaceAll("these colors:", "the game@colon@")
+        .replaceAll("following:", "following@colon@")
+        .replaceAll("yet:", "yet@colon@")
+        .replaceAll("Lilith:", "Lilith@colon@")
+        .replaceAll("Bystander:", "Bystander@colon@")
+        .replaceAll("Twist:", "Twist@colon@")
+        .replaceAll("Master Strike:", "Master Strike@colon@")
+        .replaceAll("Villain:", "Villain@colon@")
+        .replaceAll("the ability:", "the ability@colon@")
+        .replaceAll("these places:", "these places@colon@")
 
+        // UTF-8 quote
+        .replaceAll("“", "@special_quote@")
         //Fix other weird cases
         .replaceAll("!0", "false")
 
         // Replace ":" with "@colon@" if it's between double-quotes
-        .replace(/:\s*"([^"]*)"/g, function (match, p1) {
+        .replace(/:\s*"([^"{]*)"/g, function (match, p1) {
           return ': "' + p1.replace(/:/g, "@colon@") + '"';
         })
 
         // Replace ":" with "@colon@" if it's between single-quotes
-        .replace(/:\s*'([^']*)'/g, function (match, p1) {
+        .replace(/:\s*'([^'{]*)'/g, function (match, p1) {
           return ': "' + p1.replace(/:/g, "@colon@") + '"';
         })
 
@@ -114,7 +152,10 @@ const doWork = async (thing) => {
         .replace(/(['"])?([a-z0-9A-Z_]+)(['"])?\s*:/g, '"$2": ')
 
         // Turn "@colon@" back into ":"
-        .replace(/@colon@/g, ":");
+        .replace(/@colon@/g, ":")
+
+        // Turn special quotes back into "“"
+        .replaceAll("@special_quote@", "“");
 
       prettyString = stripJsonTrailingCommas.default(prettyString, {
         stripWhitespace: true,
@@ -132,6 +173,10 @@ const doWork = async (thing) => {
         console.log("...done");
       } else {
         console.log("... ******* PROBLEM EXTRACTING JSON");
+        fs.writeFileSync(
+          path.join(setsRawJSONDir, `${pack.name}_PRETTY.json`),
+          prettyString
+        );
       }
     });
 
