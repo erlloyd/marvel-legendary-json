@@ -5,6 +5,7 @@ import { fileURLToPath } from "url";
 import { dirname } from "path";
 import fs from "fs";
 import stripJsonTrailingCommas from "strip-json-trailing-commas";
+import { exit } from "process";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -38,6 +39,7 @@ const extractJSONArray = (str) => {
 };
 
 const doWork = async (thing) => {
+  let setData = [];
   try {
     // const browser = await puppeteer.launch();
     // const page = await browser.newPage();
@@ -171,6 +173,49 @@ const doWork = async (thing) => {
           JSON.stringify(json, null, 4)
         );
         console.log("...done");
+
+        // Go through and update set data
+        json.heroes.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "heroes",
+          });
+        });
+
+        json.masterminds?.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "masterminds",
+          });
+        });
+
+        json.henchmen?.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "henchmen",
+          });
+        });
+
+        json.villains?.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "villains",
+          });
+        });
+
+        json.schemes?.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "schemes",
+          });
+        });
+
+        json.bystanders?.forEach((i) => {
+          setData.push({
+            name: i.filterName || i.name,
+            setTypeCode: "bystanders",
+          });
+        });
       } else {
         console.log("... ******* PROBLEM EXTRACTING JSON");
         fs.writeFileSync(
@@ -179,6 +224,12 @@ const doWork = async (thing) => {
         );
       }
     });
+
+    // Write set data
+    fs.writeFileSync(
+      path.join(setsRawJSONDir, `sets.json`),
+      JSON.stringify(setData, null, 2)
+    );
 
     // Use Cheerio to parse the HTML
     // const $ = cheerio.load(document);

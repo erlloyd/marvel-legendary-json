@@ -1,0 +1,3090 @@
+[
+  {
+    "name": "Agent X-13",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain America (Falcon)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain America 1941",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Steve Rogers",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Winter Soldier",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Arnim Zola",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Baron Heinrich Zemo",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Zola's Creations",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Masters of Evil (WWII)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Brainwash the Military",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Change the Outcome of WWII",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Go Back in Time to Slay Heroes' Ancestors",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Unbreakable Enigma Code, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Agent Phil Coulson",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Deathlok",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mockingbird",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Quake",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hydra High Council",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Hydra Super-Adaptoid",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "A.I.M., Hydra Offshoot",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Hydra Elite",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "S.H.I.E.L.D. vs. HYDRA War",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Hail Hydra",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Hydra Helicarriers Hunt Heroes",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Secret Empire of Betrayal",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Jessica Jones",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ms. America",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Squirrel Girl",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "J. Jonah Jameson",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Forklift Driver",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Beta Ray Bill",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Lady Sif",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thor (HoA)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Valkyrie",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Warriors Three, The",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hela, Goddess of Death",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Malekith the Accursed",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Dark Council",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Omens of Ragnarok",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Asgardian Test of Worth",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Dark World of Svartalfheim, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "War of the Frost Giants",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Ragnarok, Twilight of the Gods",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Angel",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Bishop",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Blade",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Cable",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Colossus",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Daredevil (Dark City)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Domino",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Elektra",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Forge",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ghost Rider",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iceman",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iron Fist",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Jean Grey",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nightcrawler",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Professor X",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Punisher",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wolverine (Dark City)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Apocalypse",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Kingpin",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mephisto",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mr. Sinister",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Stryfe",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Maggia Goons",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Phalanx",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Emissaries of Evil",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Four Horsemen",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Marauders",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Mutant Liberation Front",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Streets of New York",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Underworld",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Capture Baby Hope",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Detonate the Helicarrier",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Massive Earthquake Generator",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Organized Crime Wave",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Save Humanity",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Steal the Weaponized Plutonium",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Transform Citizens Into Demons",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "X-Cutioner's Song",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "News Reporter",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Paramedic",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Radiation Scientist",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Angel Noir",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Daredevil Noir",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iron Man Noir",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Luke Cage Noir",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Spider-Man Noir",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Charles Xavier, Professor of Crime",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "The Goblin, Underworld Boss",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Goblin's Freak Show",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "X-Men Noir",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Find the Split Personality Killer",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Silence the Witnesses",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Five Families of Crime",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Hidden Heart of Darkness",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Detective Wolverine",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Agent Venom",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Arkon the Magnificent",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Beast (SW2)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Black Swan",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain and the Devil, The",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain Britain",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Corvus Glaive",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dr. Punisher, Soldier Supreme",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Phoenix Force Cyclops",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ruby Summers",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Shang-Chi",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Silk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Soulsword Colossus",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Spider-Gwen",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Time-Traveling Jean Grey",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Immortal Emperor Zheng-Zhu",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "King Hyperion",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Shiklah, the Demon Bride",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Spider-Queen",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Khonshu Guardians",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Magma Men",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Spider-Infected",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Deadpool's Secret Secret Wars",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Guardians of Knowhere",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "K'un-Lun",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Monster Metropolis",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Utopolis",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "X-Men '92",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Deadlands Hordes Charge the Wall",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Enthrone the Barons of Battleworld",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Fountain of Eternal Life, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "God-Emperor of Battleworld, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Mark of Khonshu, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Master the Mysteries of Kung-Fu",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Secret Wars",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Sinister Ambitions",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Alligator Trapper",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Shapeshifted Copycat",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Undercover Agent",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Bob, Agent of HYDRA",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Deadpool",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Slapstick",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Solo",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Stingray",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Evil Deadpool",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Macho Gomez",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Deadpool's “Friends“",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Evil Deadpool Corpse",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Deadpool Kills the Marvel Universe",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Deadpool Wants a Chimichanga",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Deadpool Writes a Scheme",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Everybody Hates Deadpool",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Human Torch",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Invisible Woman",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mr. Fantastic",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Silver Surfer",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thing",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Galactus",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mole Man",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Heralds of Galactus",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Subterranea",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Bathe the Earth in Cosmic Rays",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Flood the Planet with Melted Glaciers",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Invincible Force Field",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Pull Reality Into the Negative Zone",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "King Black Panther",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Queen Storm of Wakanda",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Princess Shuri",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "General Okoye",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "White Wolf",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Killmonger",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Klaw",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Killmonger's League",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Enemies of Wakanda",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Seize the Wakandan Throne",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Poison Lakes with Nanite Microbots",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Plunder Wakanda's Vibranium",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Provoke a Clash of Nations",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Captain America, Secret Avenger",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Cloak & Dagger",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Daredevil (Civil War)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Falcon",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Goliath",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hercules",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hulkling",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Luke Cage",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Patriot",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Peter Parker",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Speedball",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Stature",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Storm & Black Panther",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Tigra",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Vision",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wiccan",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Authoritarian Iron Man",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Baron Helmut Zemo",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Maria Hill, Director of S.H.I.E.L.D.",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Misty Knight",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ragnarok",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mandroid",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Cape-Killers",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "CSA Special Marshals",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Great Lakes Avengers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Heroes for Hire",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Registration Enforcers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "S.H.I.E.L.D. Elite",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Superhuman Registration Act",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Thunderbolts",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Avengers vs. X-Men",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Dark Reign of H.A.M.M.E.R. Officers",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Epic Super Hero Civil War",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Imprison Unregistered Superhumans",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Nitro the Supervillain Threatens Crowds",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Predict Future Crime",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Reveal Heroes' Secret Identities",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "United States Split by Civil War",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Aspiring Hero",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Comic Shop Keeper",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Multiple Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Shatterstar",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Stepford Cuckoos",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "M",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Strong Guy",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Warpath",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Siryn",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Rictor",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Lady Deathstrike",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Bastion, Fused Sentinel",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Exodus",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mr. Sinister Clones",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Sentinel Squad O∗N∗E∗",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Reavers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Purifiers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Acolytes",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Clan Yashida",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Hack Cerebro Servers To...",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "...Control the Mutant Messiah",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Drain Mutant Powers To...",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "...Open Rifts to Future Timelines",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Hire Singularity Investigations To...",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "...Reveal The Heroes' Evil Clones",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Raid Gene Banks To...",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "...Unleash an Anti-Mutant Bioweapon",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Cloning Technician",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Opera Singer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Private Investigator",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Drax the Destroyer",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gamora (GotG)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Groot",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Star-Lord (GotG)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Supreme Intelligence of the Kree",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Thanos (GotG)",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Kree Starforce",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Infinity Gems",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Forge the Infinity Gauntlet",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Intergalactic Kree Nega-Bomb",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Kree-Skrull War, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Unite the Shards",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Aurora & Northstar",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Banshee",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Beast (X-Men)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Cannonball",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Colossus & Wolverine",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dazzler",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Havok",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Jubilee",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Kitty Pryde",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Legion",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Longshot",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Phoenix",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Polaris",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Psylocke",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "X-23",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Arcade",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Dark Phoenix",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Deathbird",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mojo",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Onslaught",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Shadow King",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Brood, The",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Hellfire Cult",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Sapien League",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Shi'ar Death Commandos",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Shi'ar Patrol Craft",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Dark Descendants",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Hellfire Club",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Mojoverse",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Murderworld",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Shadow-X",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Shi'ar Imperial Guard",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sisterhood of Mutants",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Alien Brood Encounters",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Anti-Mutant Hatred",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Dark Phoenix Saga, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Horror of Horrors",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Mutant-Hunting Super Sentinels",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Nuclear Armageddon",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Televised Deathtraps of Mojoworld",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "X-Men Danger Room Goes Berserk",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Cypher",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Heartless Computer Scientist",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Karma",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Magik",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Magma",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Martial Arts Master",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Mirage",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Sunspot",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Warlock",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Wolfsbane",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Black Cat",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Moon Knight",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Scarlet Spider",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Spider-Woman",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Symbiote Spider-Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Carnage",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mysterio",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Maximum Carnage",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sinister Six",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Clone Saga, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Invade the Daily Bugle News HQ",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Splice Humans with Spider DNA",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Weave a Web of Lies",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Doctor Strange (MS IS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Black Panther (MS IS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Bruce Banner (MS IS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain Marvel (MS IS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wanda & Vision",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thanos (MS IS)",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ebony Maw",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Children of Thanos",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Infinity Stones",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sacrifice for the Soul Stone",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Halve All Life in the Universe",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Warp Reality into a TV Show",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "The Time Heist",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Black Bolt (RoK)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Medusa",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Crystal",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Karnak",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gorgon",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Maximus the Mad",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Emperor Vulcan of the Shi'ar",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Inhuman Rebellion",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Shi'ar Imperial Elite",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Ruin the Perfect Wedding",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "War of Kings",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Tornado of Terrigen Mists",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Devolve with Xerogen Crystals",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Captain Marvel, Agent of S.H.I.E.L.D.",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Darkhawk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hellcat",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Photon",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Quicksilver",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ronin",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Scarlet Witch",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Speed",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "War Machine",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Grim Reaper",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Hood, The",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mandarin",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "HYDRA Base",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Mandarin's Rings",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Army of Evil",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Dark Avengers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Hood's Gang",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Lethal Legion",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Earthquake Drains the Ocean",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "House of M",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Secret HYDRA Corruption",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Korvac Saga, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Dog Show Judge",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Lawyer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Rocket Test Pilot",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Ant-Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Black Knight",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Jocasta",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wasp",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wonder Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Morgan Le Fay",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ultron",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ultron's Legacy",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Queen's Vengeance",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Age of Ultron",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Pull Earth into Medieval Times",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Transform Commuters into Giant Ants",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Trap Heroes in the Microverse",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Black Widow (BW)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Yelena Belova",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Red Guardian",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "White Tiger",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Falcon & Winter Soldier",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Taskmaster",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Indestructible Man",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Taskmaster's Thunderbolts",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Elite Assassins",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Corrupt the Spy Agencies",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Train Black Widows in the Red Room",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Sniper Rifle Assassins",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Frame Heroes for Murder",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Greithoth, Breaker of Wills",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Kuurth, Breaker of Stone",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nerkkod, Breaker of Oceans",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nul, Breaker of Worlds",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Skadi",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Skirn, Breaker of Men",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Uru-Enchanted Iron Man",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Mighty, The",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Fear Itself",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Last Stand at Avengers Tower",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Traitor, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Gwenpool",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ms. Marvel",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nova (Champions)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Totally Awesome Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Viv Vision",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Fin Fang Foom",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Pagliacci",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Monsters Unleashed",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Wrecking Crew",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Clash of the Monsters Unleashed",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Divide and Conquer",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Hypnotize Every Human",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Steal All Oxygen on Earth",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Captain Carter",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Star-Lord T'Challa",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Party Thor",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Killmonger, Spec Ops",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Apocalyptic Black Widow",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gamora, Destroyer of Thanos",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Doctor Strange Supreme",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Uatu, The Watcher",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hank Pym, Yellowjacket",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Zombie Scarlet Witch",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Killmonger, The Betrayer",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ultron Infinity",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Giants of Jotunheim",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Vibranium Liberator Drones",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Ultron Sentries",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Intergalactic Party Animals",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Rival Overlords",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Black Order Guards",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Zombie Avengers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Strange's Demons",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Trash Earth with Hugest Party Ever",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Marvel Zombies",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Collect an Interstellar Zoo",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Breach the Nexus of All Realities",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Bystander",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Happy Hogan",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Howard Stark",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Howard the Duck",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Pepper Potts",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Scott Lang's Head",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Adam Warlock",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain Mar-Vell",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Moondragon",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nebula",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nova (ItC)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Phyla-Vell",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Quasar",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ronan the Accuser",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Yondu",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Beyonder, The",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Grandmaster, The",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Magus",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Sidera Maris, Bridge Builders",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Universal Church of Truth",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Elders of the Universe",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Celestials",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "From Beyond",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Black Order of Thanos",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Contest of Champions, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Turn the Soul of Adam Warlock",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Destroy the Nova Corps",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Annihilation: Conquest",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Board Gamer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Legendary Game Designer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Pizza Delivery Guy",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Black Widow",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain America",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hawkeye",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iron Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nick Fury",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thor",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iron Monger",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Loki",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Red Skull",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Hammer Drone Army",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "HYDRA Pilots",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "HYDRA Spies",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Ten Rings Fanatics",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Chitauri",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Gamma Hunters",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Enemies of Asgard (Marvel Studios)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "HYDRA (Marvel Studios)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Iron Foes",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Asgard Under Siege",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Destroy the Cities of Earth!",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Enslave Minds with the Chitauri Scepter",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Invade Asgard",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Radioactive Palladium Poisoning",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Replace Earth's Leaders with HYDRA",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Super Hero Civil War",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Unleash the Power of the Cosmic Cube",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Bystander",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Happy Hogan",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Jane Foster",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Peggy Carter",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Pepper Potts",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Karma",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mirage",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Sunspot",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Warlock",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wolfsbane",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Belasco, Demon Lord of Limbo",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Emma Frost, The White Queen",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Demons of Limbo",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Hellions",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Demon Bear Saga, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Crash the Moon into the Sun",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Trapped in the Insane Asylum",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Superhuman Baseball Game",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Apocalyptic Kitty Pryde",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Black Bolt (SW1)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Black Panther (SW1)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain Marvel (SW1)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dr. Strange (SW1)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Lady Thor",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Magik",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Maximus",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Namor, the Sub-Mariner",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Old Man Logan",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Proxima Midnight",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Superior Iron Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thanos",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ultimate Spider-Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Madelyne Pryor, Goblin Queen",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Nimrod, Super Sentinel",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Wasteland Hulk",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Zombie Green Goblin",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ghost Racers",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "M.O.D.O.K.s",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Thor Corps",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Deadlands, The",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Domain of Apocalypse",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Limbo",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Manhattan (Earth-1610)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sentinel Territories",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Wasteland",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Build an Army of Annihilation",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Corrupt the Next Generation of Heroes",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Crush Them With My Bare Hands",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Dark Alliance",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Fragmented Realities",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Master of Tyrants",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Pan-Dimensional Plague",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Smash Two Dimensions Together",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Banker",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Howard the Duck",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Man-Thing",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Circus of Crime",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Spider-Slayer",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Bulldozer Driver",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Double Agent of S.H.I.E.L.D.",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Fortune Teller",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Photographer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Stan Lee",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Star-Lord (MS GotG)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gamora (MS GotG)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Rocket & Groot",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Drax (MS GotG)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mantis",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ronan the Accuser",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Ego, the Living Planet",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Followers of Ronan",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Ravagers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Inescapable “Kyln“ Space Prison",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Provoke the Sovereign War Fleet",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Star-Lord's Awesome Mix Tape",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Unleash the Abilisk Space Monster",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Blade, Daywalker",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Morbius",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Werewolf by Night",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wong, Master of the Mystic Arts",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Lilith, Mother of Demons",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Zarathos",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Lilin",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Fallen",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sire Vampires at the Blood Bank",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Ritual Sacrifice to Summon Chthon",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Midnight Massacre",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Wager at Blackjack for Heroes' Souls",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Doctor Strange (DS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Doctor Voodoo",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Clea",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ancient One, The",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Vishanti, The",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nightmare",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Dormammu",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Fear Lords",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Lords of the Netherworld",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "War for the Dream Dimension",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Claim Souls for Demons",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Cursed Pages of the Darkhold Tome",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Duels of Science and Magic",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Carnage",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Venom (Venom)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Venom Rocket",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Venomized Dr. Strange",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Venompool",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hybrid",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Poison Thanos",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Life Foundation",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Poisons",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Invasion of the Venom Symbiotes",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Maximum Carnage",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Paralyzing Venom",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Symbiotic Absorption",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Black Widow (Core/MS)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Captain America",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Cyclops",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Deadpool (Core Set)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Emma Frost",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gambit",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hawkeye",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Iron Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Nick Fury",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Rogue",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Spider-Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Storm",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Thor (Core Set)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Wolverine (Core Set)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dr. Doom",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Loki",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Magneto",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Red Skull",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Doombot Legion",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Hand Ninjas",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Savage Land Mutates",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Sentinel",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Brotherhood",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Enemies of Asgard (Core Set)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "HYDRA (Core Set)",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Masters of Evil",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Radiation",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Skrulls",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Spider-Foes",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Midtown Bank Robbery",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Secret Invasion of the Skrull Shapeshifters",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Legacy Virus, The",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Negative Zone Prison Breakout",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Portals to the Dark Dimension",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Replace Earth's Leaders with Killbots",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Super Hero Civil War",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Unleash the Power of the Cosmic Cube",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Bystander",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Amadeus Cho",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Bruce Banner (WWH)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Caiera",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Gladiator Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hiroim",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Hulkbuster Iron Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Joe Fixit, Grey Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Korg",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Miek, The Unhived",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Namora",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "No-Name, Brood Queen",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Rick Jones",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Sentry",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "She-Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Skaar, Son of Hulk",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "General “Thunderbolt” Ross",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Illuminati, Secret Society",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "King Hulk, Sakaarson",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "M.O.D.O.K.",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Red King, The",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Sentry, The",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Cytoplasm Spikes",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Death's Heads",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Sakaaran Hivelings",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Aspects of the Void",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Code Red",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Illuminati",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Intelligencia",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Sakaar Imperial Guard",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "U-Foes",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Warbound",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Break the Planet Asunder",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Cytoplasm Spike Invasion",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Fall of the Hulks",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Gladiator Pits of Sakaar",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Mutating Gamma Rays",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Shoot Hulk into Space",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Subjugate with Obedience Disks",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "World War Hulk",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Actor",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Animal Trainer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Tourist Couple",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Triage Nurse",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Brainstorm",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Fantastic Four United",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Heralds of Galactus",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Psi-Lord",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Super-Skrull",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Annihilus",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Kang the Conqueror",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Annihilation Wave",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Timelines of Kang",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Pulse Waves From the Negative Zone",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Sneak Attack the Heroes' Homes",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Put Humanity on Trial",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Breach Parallel Dimensions",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Bullseye",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dr. Octopus",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Electro",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Enchantress",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Green Goblin",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Juggernaut",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Kingpin",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Kraven",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Loki",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Magneto",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mysterio",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Mystique",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Sabretooth",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Ultron",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Venom (Villains)",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Dr. Strange",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Nick Fury",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Odin",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Professor X",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Asgardian Warriors",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Cops",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Multiple Man",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "S.H.I.E.L.D. Assault Squad",
+    "setTypeCode": "henchmen"
+  },
+  {
+    "name": "Avengers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Defenders",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Marvel Knights",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Spider Friends",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Uncanny Avengers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Uncanny X-Men",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "X-Men First Class",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Build an Underground MegaVault Prison",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Cage Villains in Power-Suppressing Cells",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Crown Thor King of Asgard",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Crush HYDRA",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Graduation at Xavier's X-Academy",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Infiltrate the Lair with Spies",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Mass Produce War Machine Armor",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Resurrect Heroes with Norn Stones",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Bystander",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Computer Hacker",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Engineer",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Public Speaker",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Rock Star",
+    "setTypeCode": "bystanders"
+  },
+  {
+    "name": "Happy Hogan",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "High Tech Spider-Man",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Peter Parker, Homecoming",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Peter's Allies",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Tony Stark",
+    "setTypeCode": "heroes"
+  },
+  {
+    "name": "Adrian Toomes",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Vulture",
+    "setTypeCode": "masterminds"
+  },
+  {
+    "name": "Salvagers",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Vulture Tech",
+    "setTypeCode": "villains"
+  },
+  {
+    "name": "Distract the Hero",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Explosion at the Washington Monument",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Ferry Disaster",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Scavenge Alien Weaponry",
+    "setTypeCode": "schemes"
+  },
+  {
+    "name": "Damage Control",
+    "setTypeCode": "bystanders"
+  }
+]
