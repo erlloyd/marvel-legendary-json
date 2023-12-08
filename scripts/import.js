@@ -167,6 +167,9 @@ const doWork = async (thing) => {
 
       const json = extractJSONArray(prettyString);
       if (json !== null) {
+        console.log("...transforming raw json data");
+        json.packName = pack.name;
+
         console.log("...writing raw json data");
         fs.writeFileSync(
           path.join(setsRawJSONDir, `${pack.name}.json`),
@@ -177,42 +180,42 @@ const doWork = async (thing) => {
         // Go through and update set data
         json.heroes.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_heroes_${i.filterName || i.name}`,
             setTypeCode: "heroes",
           });
         });
 
         json.masterminds?.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_masterminds_${i.filterName || i.name}`,
             setTypeCode: "masterminds",
           });
         });
 
         json.henchmen?.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_henchmen_${i.filterName || i.name}`,
             setTypeCode: "henchmen",
           });
         });
 
         json.villains?.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_villains_${i.filterName || i.name}`,
             setTypeCode: "villains",
           });
         });
 
         json.schemes?.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_schemes_${i.filterName || i.name}`,
             setTypeCode: "schemes",
           });
         });
 
         json.bystanders?.forEach((i) => {
           setData.push({
-            name: i.filterName || i.name,
+            name: `${pack.name}_bystanders_${i.filterName || i.name}`,
             setTypeCode: "bystanders",
           });
         });

@@ -2655,5 +2655,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "packName": "CoreSet"
 }
