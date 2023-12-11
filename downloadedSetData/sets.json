@@ -3086,5 +3086,25 @@
   {
     "name": "SpiderManHomecoming_bystanders_Damage Control",
     "setTypeCode": "bystanders"
+  },
+  {
+    "name": "GeneralCards_starterdeck_Starter Deck",
+    "setTypeCode": "starterdeck"
+  },
+  {
+    "name": "GeneralCards_misc_S.H.I.E.L.D. Officer, Maria Hill",
+    "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Master Strike",
+    "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Scheme Twist",
+    "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Wound",
+    "setTypeCode": "misc"
   }
 ]

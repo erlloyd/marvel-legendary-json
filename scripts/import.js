@@ -228,6 +228,28 @@ const doWork = async (thing) => {
       }
     });
 
+    setData.push({
+      name: `GeneralCards_starterdeck_Starter Deck`,
+      setTypeCode: "starterdeck",
+    });
+
+    setData.push({
+      name: `GeneralCards_misc_S.H.I.E.L.D. Officer, Maria Hill`,
+      setTypeCode: "misc",
+    });
+    setData.push({
+      name: `GeneralCards_misc_Master Strike`,
+      setTypeCode: "misc",
+    });
+    setData.push({
+      name: `GeneralCards_misc_Scheme Twist`,
+      setTypeCode: "misc",
+    });
+    setData.push({
+      name: `GeneralCards_misc_Wound`,
+      setTypeCode: "misc",
+    });
+
     // Write set data
     fs.writeFileSync(
       path.join(setsRawJSONDir, `sets.json`),
