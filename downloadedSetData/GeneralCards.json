@@ -1,7 +1,7 @@
 {
     "id": 99,
     "heroes": [],
-    "starterdeck": {
+    "starterdeck": [{
         "id": 99,
         "name": "Starter Deck",
         "cards": [
@@ -16,7 +16,7 @@
                 "qtd": 4
             }
         ]
-    },
+    }],
     "misc": [
         {
             "name": "S.H.I.E.L.D. Officer, Maria Hill",
