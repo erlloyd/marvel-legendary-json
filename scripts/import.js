@@ -229,8 +229,8 @@ const doWork = async (thing) => {
     });
 
     setData.push({
-      name: `GeneralCards_starterdeck_Starter Deck`,
-      setTypeCode: "starterdeck",
+      name: `GeneralCards_starter_Starter Deck`,
+      setTypeCode: "starter",
     });
 
     setData.push({
