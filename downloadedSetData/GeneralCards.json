@@ -95,6 +95,47 @@
         },
         {
             "id": 99,
+            "name": "Grievous Wound",
+            "cards": [
+                {
+                    "name": "Blinding Flash",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_blindingflash.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Blunt Force Trauma",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_bluntforcetrauma.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Corrosive Webbing",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_corrosivewebbing.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Fatal Blow",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_fatalblow.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Psychic Trauma",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_psychictrauma.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Spreading Nanovirus",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_spreadingnanovirus.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Subdermal Tracker",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/gw_subdermaltracker.jpg?w=400",
+                    "qtd": 2
+                }
+            ]
+        },
+        {
+            "id": 99,
             "name": "Standard Game Cards (Villains)",
             "cards": [
                 {
