@@ -46,6 +46,164 @@
                     "qtd": 30
                 }
             ]
+        },
+        {
+            "id": 999,
+            "name": "Ambitions",
+            "cards": [
+                {
+                    "name": "Pure Evil",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-12.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Crime Surge",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-01.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Secret Plans",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-02.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Ruthless Strike",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-03.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Dark Apprentice",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-04.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Collateral Damage",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-05.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Thirst For Vengeance",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-06.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Wave of Punishment",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-07.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Thirst for Power",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-08.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Insane Twist",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-09.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Empower",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-10.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Deceive",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-11.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Tide of Destruction",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-13.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Last-minute Escape",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-14.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Cleave",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-15.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Wipe Out",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-16.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Crackdown",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-17.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Kidnap",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-18.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Inflict Pain",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-20.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Painful Choice",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-21.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Pressure Point",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-22.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Pummel",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-23.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Crush the Weak",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-24.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Identity Theft",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-25.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Force Field",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-26.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Entrap",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-27.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Abduction",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-28.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Bank Robbery",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-29.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Breakout",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-30.jpg",
+                    "qtd": 1
+                },
+                {
+                    "name": "Infiltrate S.H.I.E.L.D.",
+                    "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-31.jpg",
+                    "qtd": 1
+                }
+                
+            ]
         }
+
     ]
 }

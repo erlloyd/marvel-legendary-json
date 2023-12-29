@@ -3094,5 +3094,9 @@
   {
     "name": "GeneralCards_misc_Standard Game Cards",
     "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Ambitions",
+    "setTypeCode": "misc"
   }
 ]
