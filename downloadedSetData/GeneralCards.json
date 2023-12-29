@@ -54,6 +54,47 @@
         },
         {
             "id": 99,
+            "name": "Special Sidekicks",
+            "cards": [
+                {
+                    "name": "Zabu",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_zabu.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Throg",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_throg.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Redwing",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_redwing.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Lockjaw",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_lockjaw.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Lockheed",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_lockheed.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Ms. Lion",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_lion.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Hairball",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/10/ss_hairball.jpg?w=400",
+                    "qtd": 2
+                }
+            ]
+        },
+        {
+            "id": 99,
             "name": "Standard Game Cards (Villains)",
             "cards": [
                 {
