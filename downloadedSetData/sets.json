@@ -3106,5 +3106,9 @@
   {
     "name": "GeneralCards_misc_Special Sidekicks",
     "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Grievous Wound",
+    "setTypeCode": "misc"
   }
 ]
