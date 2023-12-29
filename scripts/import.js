@@ -239,6 +239,11 @@ const doWork = async (thing) => {
     });
 
     setData.push({
+      name: `GeneralCards_misc_Standard Game Cards (Villains)`,
+      setTypeCode: "misc",
+    });
+
+    setData.push({
       name: `GeneralCards_misc_Ambitions`,
       setTypeCode: "misc",
     });

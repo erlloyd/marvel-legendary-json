@@ -48,6 +48,32 @@
             ]
         },
         {
+            "id": 99,
+            "name": "Standard Game Cards (Villains)",
+            "cards": [
+                {
+                    "name": "Madame Hydra",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/madame-hydra.jpg?w=400",
+                    "qtd": 30
+                },
+                {
+                    "name": "Command Strike",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/command-strike.jpg?w=400",
+                    "qtd": 5
+                },
+                {
+                    "name": "Plot Twist",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/plot-twist.jpg?w=400",
+                    "qtd": 11
+                },
+                {
+                    "name": "Bindings",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/wounds.jpg?w=400",
+                    "qtd": 30
+                }
+            ]
+        },
+        {
             "id": 999,
             "name": "Ambitions",
             "cards": [
@@ -201,9 +227,7 @@
                     "imageUrl": "https://marveldbg.com/wp-content/uploads/2019/09/ambition-31.jpg",
                     "qtd": 1
                 }
-                
             ]
         }
-
     ]
 }
