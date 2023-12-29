@@ -44,6 +44,11 @@
                     "name": "Wound",
                     "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/wound.jpg?w=400",
                     "qtd": 30
+                },
+                {
+                    "name": "Sidekick",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/sidekick.jpg?w=400",
+                    "qtd": 15
                 }
             ]
         },
@@ -70,6 +75,11 @@
                     "name": "Bindings",
                     "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/wounds.jpg?w=400",
                     "qtd": 30
+                },
+                {
+                    "name": "New Recruits",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/new-recruits.jpg?w=400",
+                    "qtd": 15
                 }
             ]
         },
