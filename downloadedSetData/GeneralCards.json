@@ -18,6 +18,22 @@
                     "qtd": 4
                 }
             ]
+        },
+        {
+            "id": 99,
+            "name": "Starter Deck (Villains)",
+            "cards": [
+                {
+                    "name": "HYDRA Operative",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/hydra-operative.jpg?w=400",
+                    "qtd": 8
+                },
+                {
+                    "name": "HYDRA Soldier",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/hydra-soldier.jpg?w=400",
+                    "qtd": 4
+                }
+            ]
         }
     ],
     "misc": [

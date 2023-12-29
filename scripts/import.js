@@ -234,6 +234,11 @@ const doWork = async (thing) => {
     });
 
     setData.push({
+      name: `GeneralCards_starter_Starter Deck (Villains)`,
+      setTypeCode: "starter",
+    });
+
+    setData.push({
       name: `GeneralCards_misc_Standard Game Cards`,
       setTypeCode: "misc",
     });
