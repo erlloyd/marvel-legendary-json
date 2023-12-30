@@ -263,6 +263,16 @@ const doWork = async (thing) => {
       setTypeCode: "misc",
     });
 
+    setData.push({
+      name: `GeneralCards_misc_Horrors`,
+      setTypeCode: "misc",
+    });
+
+    setData.push({
+      name: `GeneralCards_misc_Tokens`,
+      setTypeCode: "misc",
+    });
+
     // Write set data
     fs.writeFileSync(
       path.join(setsRawJSONDir, `sets.json`),

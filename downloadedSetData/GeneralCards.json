@@ -336,6 +336,143 @@
                     "qtd": 1
                 }
             ]
+        },
+        {
+            "id": 999,
+            "name": "Horrors",
+            "cards": [
+                {
+                    "name": "Army of Evil",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/army-of-evil.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Empire of Oppression",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/empire-of-oppression.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Endless Hatred",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/endless-hatred.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Enraged Mastermind",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/enraged-mastermind.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Fight to the End",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/fight-to-the-end.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Growing Threat",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/growing-threat.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Legions upon Legions",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/legions-upon-legions.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Maniacal Mastermind",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/maniacal-mastermind.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Misery upon Misery",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/misery-upon-misery.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Opening Salvo",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/opening-salvo.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Pain upon Pain",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/pain-upon-pain.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Plots upon Plots",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/plots-upon-plots.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Psychic Infection",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/psychic-infection.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Shadow of the Disciple",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/shadow-of-the-disciple.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Surprise Assault",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/surprise-assault.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "The Apprentice Rises",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/the-apprentice-rises.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "The Blood Thickens",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/the-blood-thickens.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "The Plot Thickens",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/the-plot-thickens.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Tyrant Mastermind",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/tyrant-mastermind.jpg?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Viral Infection",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/viral-infection.jpg?w=400",
+                    "qtd": 1
+                }
+            ]
+        },
+        {
+            "id": 999,
+            "name": "Tokens",
+            "cards": [
+                {
+                    "name": "Shi'ar Battleship",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/shiar-battlecruiser-epic.png?w=400",
+                    "qtd": 5
+                },
+                {
+                    "name": "Shi'ar Battlecruiser",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/shiar-battlecruiser.png?w=2400&h=",
+                    "qtd": 5
+                },
+                {
+                    "name": "Animatronic Killer Clowns",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/murderworld-03.png?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Phoenix Force",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/hellfire-club-05.png?w=400",
+                    "qtd": 1
+                },
+                {
+                    "name": "Master Plan",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/11/mastermind-master-plan.jpg?w=400",
+                    "qtd": 1
+                }
+            ]
         }
     ]
 }

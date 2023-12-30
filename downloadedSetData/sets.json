@@ -3114,5 +3114,13 @@
   {
     "name": "GeneralCards_misc_Grievous Wound",
     "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Horrors",
+    "setTypeCode": "misc"
+  },
+  {
+    "name": "GeneralCards_misc_Tokens",
+    "setTypeCode": "misc"
   }
 ]
