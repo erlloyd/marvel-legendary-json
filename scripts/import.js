@@ -269,6 +269,11 @@ const doWork = async (thing) => {
     });
 
     setData.push({
+      name: `GeneralCards_misc_Special Officers`,
+      setTypeCode: "misc",
+    });
+
+    setData.push({
       name: `GeneralCards_misc_Grievous Wound`,
       setTypeCode: "misc",
     });

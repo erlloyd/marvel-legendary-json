@@ -153,6 +153,52 @@
         },
         {
             "id": 99,
+            "name": "Special Officers",
+            "cards": [
+                {
+                    "name": "Leo Fitz and Jenna Simmons",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_01.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Grant Ward",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_02.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "G.W. Bridge",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_03.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Dum Dum Dugan",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_04.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Melinda May",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_05.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Sharon Carter",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_06.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Victoria Hand",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_07.jpg?w=400",
+                    "qtd": 2
+                },
+                {
+                    "name": "Yo-Yo Rodriguez",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2020/01/special-officers_08.jpg?w=400",
+                    "qtd": 2
+                }
+            ]
+        },
+        {
+            "id": 99,
             "name": "Grievous Wound",
             "cards": [
                 {
