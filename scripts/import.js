@@ -239,12 +239,22 @@ const doWork = async (thing) => {
     });
 
     setData.push({
+      name: `GeneralCards_starter_Starter Deck (Marvel Studios)`,
+      setTypeCode: "starter",
+    });
+
+    setData.push({
       name: `GeneralCards_misc_Standard Game Cards`,
       setTypeCode: "misc",
     });
 
     setData.push({
       name: `GeneralCards_misc_Standard Game Cards (Villains)`,
+      setTypeCode: "misc",
+    });
+
+    setData.push({
+      name: `GeneralCards_misc_Standard Game Cards (Marvel Studios)`,
       setTypeCode: "misc",
     });
 

@@ -34,6 +34,22 @@
                     "qtd": 4
                 }
             ]
+        },
+        {
+            "id": 99,
+            "name": "Starter Deck (Marvel Studios)",
+            "cards": [
+                {
+                    "name": "S.H.I.E.L.D. Agent",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/shield-agent-1.jpg?w=400",
+                    "qtd": 8
+                },
+                {
+                    "name": "S.H.I.E.L.D. Trooper",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/shield-trooper-1.jpg?w=400",
+                    "qtd": 4
+                }
+            ]
         }
     ],
     "misc": [
@@ -65,6 +81,32 @@
                     "name": "Sidekick",
                     "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/sidekick.jpg?w=400",
                     "qtd": 15
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Standard Game Cards (Marvel Studios)",
+            "cards": [
+                {
+                    "name": "S.H.I.E.L.D. Officer, Maria Hill",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/shield-officer-1.jpg?w=400",
+                    "qtd": 30
+                },
+                {
+                    "name": "Master Strike",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/master-strike-1.jpg?w=400",
+                    "qtd": 5
+                },
+                {
+                    "name": "Scheme Twist",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/scheme-twist-1.jpg?w=400",
+                    "qtd": 11
+                },
+                {
+                    "name": "Wound",
+                    "imageUrl": "https://marveldbg.files.wordpress.com/2019/09/wound-1.jpg?w=400",
+                    "qtd": 30
                 }
             ]
         },
